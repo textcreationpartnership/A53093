@@ -1,0 +1,557 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funerals of the reverend and faithful servant of Jesus Christ in the work of the Gospel, Mr. Samuel Collins, Pastor of the Church of Christ at Braintree in Essex, who exchanged this life for immortality in the 77th year of his age, in the 46 year of his ministry there, in the year of our Lord, 1657 preached by Matthew Newcomen ...</title>
+            <author>Newcomen, Matthew, 1610?-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53093</idno>
+            <idno type="STC">Wing N912</idno>
+            <idno type="STC">ESTC R3229</idno>
+            <idno type="EEBO-CITATION">12782596</idno>
+            <idno type="OCLC">ocm 12782596</idno>
+            <idno type="VID">93847</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93847)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 699:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funerals of the reverend and faithful servant of Jesus Christ in the work of the Gospel, Mr. Samuel Collins, Pastor of the Church of Christ at Braintree in Essex, who exchanged this life for immortality in the 77th year of his age, in the 46 year of his ministry there, in the year of our Lord, 1657 preached by Matthew Newcomen ...</title>
+                  <author>Newcomen, Matthew, 1610?-1669.</author>
+               </titleStmt>
+               <extent>[2], 63 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Maxwell for W. Weekley, at Ipswich,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Collins, Samuel, 1576-1651 --  Sermons.</term>
+               <term>Bible. --  N.T. --  Acts XIII, 36 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93847:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the FUNERALS OF The Reverend and Faithful Servant Of Jeſus Chriſt in the Work of the Goſpel Mr. <hi>SAM<g ref="char:V">Ʋ</g>EL COLLINS,</hi> Paſtor of the Church of Chriſt at <hi>BRAINTREE</hi> in <hi>ESSEX.</hi>
+            </p>
+            <p>Who Exchanged this Life for Immortality
+<list>
+                  <item>In the 77<hi rend="sup">th</hi> year of his Age.</item>
+                  <item>In the 46 year of his Miniſtry there.</item>
+                  <item>In the year of our Lord 1657.</item>
+               </list>
+            </p>
+            <p>Preached By MATTHEW NEWCOMEN Mini<g ref="char:EOLhyphen"/>ſter of the Goſpel in the Church of <hi>Dedham</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D. Maxwell</hi> for <hi>W. Weekley,</hi> at <hi>Ipſwich,</hi> and are to be ſold by <hi>J. Rothwel</hi> at the Fountain in Cheapſide, and <hi>Rich. Tomlins</hi> at the Sun and Bible in Pye-corner. 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:93847:2"/>
+            <pb n="1" facs="tcp:93847:2"/>
+            <head>A SERMON Preached at the FUNERALS OF That Reverend and Faithful Servant of Jeſus Chriſt in the Work of the Goſpel, Mr. <hi>SAMUEL COLLINS</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>ACT. 13.36.</bibl>
+                  <p>For David after he had ſerved his own Generation by the will of God fell on ſteep, and was laid to his Fa<g ref="char:EOLhyphen"/>thers, and ſaw Corruption.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>Uneral Sermons</hi> are much condemned by ſome in theſe Times; and <hi>Funeral Speeches,</hi> Speeches in <hi>Commendation</hi> of the De<g ref="char:EOLhyphen"/>ceaſed much more, yet certainly there is a warrantable uſe of Both, though the
+<pb n="2" facs="tcp:93847:3"/>
+latter of theſe hath ſuffered much abuſe: Might the <hi>Practice of Antiquity,</hi>
+               <note place="margin">Introductio Re<g ref="char:EOLhyphen"/>alis. In quibus Scri<g ref="char:EOLhyphen"/>ptura nihil certi definit mos popu<g ref="char:EOLunhyphen"/>li Dei &amp; inſti<g ref="char:EOLhyphen"/>tuta majorum pro lege haben<g ref="char:EOLhyphen"/>da. <hi>Auguſt. 1 Cor. 11.19.</hi>
+               </note> and the <hi>Cuſtome of the Church</hi> (which in things not preciſely determined in Scripture with the Apoſtle <hi>Paul</hi> are no contempti<g ref="char:EOLhyphen"/>ble Arguments:) might theſe, I ſay, be heard, the Controverſie would ſoon be ended. For it hath been the Practiſe of the Church of Chriſt <hi>ab antiquo</hi> to ſo<g ref="char:EOLhyphen"/>lemnize the Funerals, eſpecially of ſuch as have been eminent in their Lives, with ſuch kind of <hi>Speeches</hi> or <hi>Sermons,</hi> as ap<g ref="char:EOLhyphen"/>pears in the Writings of many the moſt Illuſtrious Lights, eſpecially of the Eaſt<g ref="char:EOLhyphen"/>ern Churches.</p>
+            <p>And for Warrant from <hi>Scripture,</hi> we have thus much to ſay,</p>
+            <p>Firſt, For the <hi>People of God,</hi> when one of their Brethren or Siſters is taken from them by the ſtroak of death, to aſſem<g ref="char:EOLhyphen"/>ble themſelves together to give him a <hi>Solemn and honourable Interment;</hi> This is undoubtedly and beyond all queſtion warranted from the frequent (I might ſay almoſt conſtant) practiſe of the Saints in the <hi>Old Teſtament</hi> and in the <hi>New:</hi> Inſtances in the <hi>Old Teſtament</hi> you have in the Burial of <hi>Jacob,</hi> and <hi>Aaron,</hi> and <hi>Samuel,</hi> and others, whom I ſpare to
+<pb n="3" facs="tcp:93847:3"/>
+mention, they are ſo numerous.</p>
+            <p>I ſhall only mention one in the <hi>New Teſtament</hi> in the Goſpel Church, and that is the Inſtance of <hi>Steven,</hi> Acts 8.2. <hi>Devout men carried Steven to his Burial, and made great Lamentation over him.</hi> Though then it were a dangerous time <hi>flagrante perſecutione,</hi> the fire of perſe<g ref="char:EOLhyphen"/>cution being newly broke forth upon the <hi>Chriſtian Church,</hi> and <hi>Steven</hi> being the Man that had beene ſacrificed in thoſe flames as the firſt fruits of the Goſpel, yet they were not, they would not be diſ<g ref="char:EOLhyphen"/>couraged from this work of humanity and Chriſtian Charity, but <hi>Devout men carried Steven to his Burial.</hi>
+            </p>
+            <p>
+               <hi>Devout men:]</hi> It is likely there were more of them then would juſt ſerve to carry his corps to the Grave. If there were ſome that had ſo much zeal and charitie, and courage in them, as to carry him, queſtionleſſe there were others that had ſo much zeal, charity &amp; courage as to attend him: <hi>Devout men carried Steven to the grave, and made great lamentation over him.</hi> It is not then unbecoming <hi>Devout men Godlymen,</hi> to accompany the corps of a deceaſed friend, brother, fellow Chriſti<g ref="char:EOLhyphen"/>an to the grave, nor to take up a <hi>Lamen<g ref="char:EOLhyphen"/>tation</hi>
+               <pb n="4" facs="tcp:93847:4"/>
+over him, and ſay as the Prophet of <hi>Bethel</hi> over his fellow Prophet, <hi>Alas my Brother!</hi> 1 Kings 13.30. or <hi>Ah Bro<g ref="char:EOLhyphen"/>ther, ah Siſter, ah Lord,</hi> or <hi>Ah his Glory Jerem.</hi> 22.18. This is clearly war<g ref="char:EOLhyphen"/>ranted, you ſee by preſidents from Scrip<g ref="char:EOLhyphen"/>ture.</p>
+            <p>This being warranted by preſident from Scripture, I aſſume in the ſecond place it cannot be unwarrantable for a <hi>Miniſter of the Goſpel,</hi> when a company of Chriſtians are thus met together to at<g ref="char:EOLhyphen"/>tend a Burial to take that opportunity of ſpeaking to them from God and from his Word ſomething that may be ſeaſon<g ref="char:EOLhyphen"/>able and ſuiting to the preſent provi<g ref="char:EOLhyphen"/>dence; ſomething that may put them in remembrance of their own mortality, and quicken them to prepare for death, to improve the time of preſent life, or to lay hold upon eternal Life, <hi>&amp;c.</hi> (Some or all of which are the ordinary Subjects and the proper ſcopes of our Funeral Sermons) for a Miniſter thus to do, can<g ref="char:EOLhyphen"/>not juſtly be thought unwarrantable; certainely that charge, that ſolemne charge which the Apoſtle gives <hi>Timothy</hi> and in him all the Miniſters of the Go<g ref="char:EOLhyphen"/>ſpel,
+<pb n="5" facs="tcp:93847:4"/>
+2 <hi>Tim.</hi> 4.2. <hi>To preach the Word, to be inſtant in ſeaſon and out of ſeaſon,</hi> doth more then warrant this. When is a Sermon of <hi>Mortality</hi> in ſeaſon, if not at a <hi>Funeral</hi> when an <hi>example</hi> of Mortality doth, <hi>ocules ferire,</hi> lye before our eyes? When is an Exhortation to <hi>prepare</hi> our ſelves for <hi>death</hi> ſeaſonable, if not at a <hi>Funeral,</hi> when a real <hi>ſpectacle</hi> of the <hi>ſpoil</hi> and <hi>triumph</hi> of <hi>death</hi> is before our eyes? When is a Sermon to excite us to make ſure of <hi>Eternal life</hi> more in ſeaſon then at a <hi>Funeral,</hi> where we ſee by occular and evident experience how ſhort, how va<g ref="char:EOLhyphen"/>niſhing, how uncertain this preſent life is? But what ſhould I ſtand diſcourſ<g ref="char:EOLhyphen"/>ing any longer about this particular, when God himſelf hath witneſſed from from heaven his Approbation of Funeral Sermons by bleſſing them to the good of ſouls, as ſome of you, I hope, can witneſs from your own experience. And not many daies have paſſed ſince I heard a Reverend &amp; very ſucceſsful<note n="*" place="margin">My Revere<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Friend and Neighbour <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>John Wall,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> M. ſometim<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> preacher at <hi>M<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>chaels Cornhi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Late at <hi>Brom<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ly Magna</hi> in <hi>E<g ref="char:EOLunhyphen"/>ſex.</hi>
+               </note> Miniſter of the Goſpel ſay, <hi>That he had ſeen the greateſt fruit of Funeral Sermons of all the Sermons that every he preach<g ref="char:EOLhyphen"/>ed.</hi>
+            </p>
+            <pb n="6" facs="tcp:93847:5"/>
+            <p>And for <hi>Funeral Speeches</hi> (3<hi rend="sup">ly</hi>.) though I have not uſed them much nor ſhall, yet I neither do nor dare condemn thoſe that do uſe them, ſo it be done with mo<g ref="char:EOLhyphen"/>deration, and with caution, and where there is indeed juſt cauſe of commenda<g ref="char:EOLhyphen"/>tion. For why may not I <hi>make a Speech</hi> in the praiſe of one deceaſed, as well as another write <hi>a Poem</hi> in the praiſe of one deceaſed? Why may not I by mention<g ref="char:EOLhyphen"/>ing the virtues &amp; graces, the uſefulneſs &amp; ſerviceableneſſe of a deceaſed Chriſtian, labour to affect my own heart and the hearts of others either with thankfulneſs to God for the graces beſtowed on him, or with grief for our loſſe in the with<g ref="char:EOLhyphen"/>drawing of him? 2. With holy Emu<g ref="char:EOLhyphen"/>lation to imitate and follow his example and pattern: Why may not I do this in a <hi>Speech</hi> as well as another in a <hi>Poem?</hi> and I am ſure this latter hath preſident in Scripture; thus <hi>Jeremy</hi> lamented for <hi>Joſiah</hi> and made Poems, Verſes in me<g ref="char:EOLhyphen"/>morial of him for the people to ſing, as you may read 2 <hi>Chron.</hi> 35.25.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But you will ſay, <hi>Joſiah</hi> was a man none like him. Well, be it ſo; what do you ſay then of <hi>Saul</hi> and <hi>Jonathan?
+<pb n="7" facs="tcp:93847:5"/>
+David</hi> you know wrote a Poem in the praiſe of them, you have it in 2 <hi>Sam.</hi> 1. <hi>The Beauty of Iſrael is fallen upon the high places: how are the mighty fallen,</hi> &amp;c? What ſhall we ſay of that Poem of <hi>Da<g ref="char:EOLhyphen"/>vid?</hi> was it a flaſh of wit, a Pang of natural affection? God forbid that we ſhould ſo think: was he not rather guid<g ref="char:EOLhyphen"/>ed by the ſame bleſſed and holy Spirit that inſpired him in his other Poems? ſurely yes; or this would never have been <hi>Legitimated</hi> and <hi>Canonized</hi> in Scri<g ref="char:EOLhyphen"/>pture amongſt the reſt. From whence I infer, That it is lawful and agreeable to the will of God, and the wiſdom of his Spirit, to make an honourable men<g ref="char:EOLhyphen"/>tion of ſuch when they are dead, who have done things worthy of praiſe when they lived.</p>
+            <p>So much for the Juſtifying of our ſo<g ref="char:EOLhyphen"/>lemn meeting and action upon this occa<g ref="char:EOLhyphen"/>ſion. I come now to the Text.</p>
+            <p>In this Chapter from the 16 verſe to the 41,<note place="margin">Introductio Textualis.</note> you have an excellent Sermon preached by <hi>Paul</hi> (not the firſt Sermon that ever <hi>Paul</hi> preached but) the firſt Sermon of <hi>Pauls</hi> that ever the <hi>Holy Ghoſt</hi> put upon Record. Preached at <hi>Antioch</hi>
+               <pb n="8" facs="tcp:93847:6"/>
+in <hi>Piſidia</hi> (ſo called to diſtinguiſh it from that other <hi>Antioch</hi> which was in <hi>Syria</hi>) where the Name of <hi>Chriſtian</hi> was firſt minted, and the Diſciples were firſt Baptized into the <hi>Chriſtian Name,</hi> Acts 11.26. from which <hi>Antioch</hi> it was that <hi>Paul</hi> was ſeparated, <hi>chap.</hi> 13.1. and ſent forth to this journey, in which journey coming firſt to <hi>Seleucia,</hi> v. 4. and from thence ſailing to <hi>Cyprus,</hi> v. 4. after ſome time there ſpent in preaching the Goſpel, they came to <hi>Perga</hi> in <hi>Pamphilia,</hi>
+               <note place="margin">Built by <hi>Se<g ref="char:EOLhyphen"/>leucus Nicanor.</hi>
+               </note> v. 13. &amp; from thence to <hi>Antioch</hi> in <hi>Piſidia,</hi> v-14</p>
+            <p>To this City <hi>Paul</hi> and <hi>Barnabas</hi> (guid<g ref="char:EOLhyphen"/>ed by the Spirit of God) came and went (ſaith the Text) <hi>into the Synagogue upon the Sabbath day, and ſate down.</hi> The <hi>Synagogue</hi> was the place where the peo<g ref="char:EOLhyphen"/>ple of the <hi>Jews</hi> did ordinarily meet to<g ref="char:EOLhyphen"/>gether every <hi>Sabbath day</hi> for the reading of <hi>Moſes</hi> and the <hi>Prophets,</hi> and the per<g ref="char:EOLhyphen"/>forming of other duties of worſhip un<g ref="char:EOLhyphen"/>to God. Hither <hi>Paul</hi> and <hi>Barnabas</hi> re<g ref="char:EOLhyphen"/>ſort, and here they ſate them down as quietly and compoſedly as any other that were preſent in the Aſſembly, offe<g ref="char:EOLhyphen"/>ring no interruption nor diſturbance all the while the Scriptures were in reading.</p>
+            <p>
+               <pb n="9" facs="tcp:93847:6"/>
+               <hi>And after the reading of the Law and of the Prophets, the Rulers of the Syna<g ref="char:EOLhyphen"/>gogue ſent unto them, ſaying, Ye men and brethren, if you have any word of Exhor<g ref="char:EOLhyphen"/>tation for the people, ſay on,</hi> v. 13. The <hi>Evangeliſt Luke</hi> here ſhows (ſaith <hi>Cal<g ref="char:EOLhyphen"/>vin) Non omnibus permiſſum fuiſſe loqui.</hi>
+               <note place="margin">Calvin. ad loc.</note> It was not free for any one that would to ſpeak in that Aſſembly. But that the work of Exhorting did lye upon <hi>certain</hi> men, even thoſe whom the <hi>E<g ref="char:EOLhyphen"/>vangeliſt</hi> cals the <hi>Rulers of the Synagogue,</hi> it did belong to them after the reading of <hi>Moſes</hi> and the Prophets, to inſtruct &amp; ex<g ref="char:EOLhyphen"/>hort the people out of that w<hi rend="sup">ch</hi> had been read. Therefore <hi>Paul</hi> and <hi>Barnabas</hi> do not preſently as ſoon as the exerciſe of Reading was finiſhed fall a ſpeaking, leaſt by their over much haſtineſs they ſhould cauſe diſturbance, <hi>ſed modeſtè expectant,</hi> but modeſtly expect till they have leave given them to ſpeak; and that by thoſe, <hi>penes quos publico conſenſu Autoritas erat,</hi> to whom authority in the Synagogue did belong by publick con<g ref="char:EOLhyphen"/>ſent the Rulers of the Synagogue, and they ſuppoſing <hi>Paul</hi> and <hi>Barnabas,</hi> even by their countenance and garb,
+<pb n="10" facs="tcp:93847:7"/>
+               <hi>Non eſſe vulgares homines</hi> (as one ſpeaks) to be no ordinary men,<note place="margin">Gualter. ad loc.</note> ſent to them ſay<g ref="char:EOLhyphen"/>ing, <hi>Men and brethren, if you have any word of Exhortation for the people, ſay on.</hi>
+            </p>
+            <p>
+               <note place="margin">Calvin. ad loc.</note>We know, ſaith <hi>Calvin,</hi> how corrupt the ſtate of the people of the Jews was at this time, and the <hi>Evangeliſt</hi> tells us afterwards in the proceſs of this Hiſtory, how proud and refractory theſe very <hi>Jews</hi> of <hi>Antioch</hi> were in rejecting the grace of <hi>Chriſt.</hi> Yet thus much good, ſaith he, remained ſtill among them, that there was <hi>Decency</hi> and <hi>Order</hi> in their Aſſemblies. <hi>[Quo magis pudenda eſt deformis confuſio quae hodie inter eos qui Chriſtiani haberi volunt conſpicitur.]</hi> By ſo much the more ſhameful, ſaith he, is that deformed confuſion that is ſeen at this time among thoſe that would be counted Chriſtians. <hi>Gualter</hi> alſo takes notice of ſeveral things commendable and imitable in this Jewiſh Aſſembly, as their coming together on the Sabbath day, their demeaning themſelves decent<g ref="char:EOLhyphen"/>ly and modeſtly in their Aſſembly, their reading of <hi>Moſes</hi> and the Prophets, and in concluſion, <hi>Et illud quoque Laudem meretur, &amp;c.</hi> And this alſo is praiſe-worthy
+<pb n="11" facs="tcp:93847:7"/>
+(ſaith he) that no man among them takes liberty to ſpeak, unleſſe he be lawfully required; therefore <hi>Paul</hi> and <hi>Barnabas,</hi> though ſent by the <hi>Holy Ghoſt,</hi> would not ſpeak till called to it; <hi>Minimè itaque ferenda eſt Anabaptiſtarum intem<g ref="char:EOLhyphen"/>peries, &amp;c.</hi>
+            </p>
+            <p>Being thus invited <hi>Paul ſtood up,</hi> v. 16. <hi>and beckning with his hand</hi> (as men uſe to do that would beſpeak ſilence and atten<g ref="char:EOLhyphen"/>tion in thoſe to whom they ſpeak) he ſaid as followeth to <hi>v.</hi> 41.</p>
+            <p>In which ſpeech of <hi>Pauls,</hi> we have conſiderable, <hi>firſt,</hi> The <hi>Introduction</hi> that <hi>Paul</hi> uſeth to his <hi>ſpeech,</hi> v. 13. <hi>ſecondly,</hi> The <hi>Narration,</hi> or body of the <hi>ſpeech</hi> in the following verſes.</p>
+            <p>
+               <hi>Firſt,</hi> The <hi>Introduction,</hi> in theſe words, <hi>Men of Iſrael, and ye that fear God, give audience.</hi> Where marke the loving and reſpective Compellations that <hi>Paul</hi> uſeth, <hi>Men of Iſrael, and ye that fear God!</hi> How doth <hi>Paul</hi> (being a ſtranger) know that there were any among them that feared God? The event ſhewed afterwards that they were ſo far from <hi>fearing God,</hi> as they <hi>blaſphemed him</hi> v. 45. But that was more then <hi>Paul</hi> knew. At the preſent
+<pb n="12" facs="tcp:93847:8"/>
+               <hi>Paul</hi> found them met together in the worſhip of <hi>God,</hi> as men ſhould do that <hi>fear God,</hi> and therefore he hoped and judged the beſt of them; <hi>Men and bre<g ref="char:EOLhyphen"/>thren,</hi> ſaith he, <hi>and all ye that fear God, hearken.</hi>
+            </p>
+            <p>Having thus Prefaced, he proceeds to his diſcourſe, which diſcourſe or Ser<g ref="char:EOLhyphen"/>mon of <hi>Pauls,</hi> may, as one ſaith, be well called,<note place="margin">Pelargus ad loc.</note> 
+               <hi>A ſhort ſum or Epitome of the whole Scripture.</hi> But eſpecially it is a <hi>Hiſtory</hi> of the manifold grace and mercy of God towards his Church and people.</p>
+            <p>
+               <hi>Firſt,</hi> In their <hi>Election,</hi> The <hi>God of this people of Iſrael choſe our Fathers,</hi> v. 17. <hi>Secondly,</hi> In his <hi>Magnifying</hi> them in <hi>Egypt,</hi> by the wonders which he there wrought for them, <hi>And exalted the peo<g ref="char:EOLhyphen"/>ple when they dwelt as ſtrangers in the land of Egypt. Thirdly,</hi> In his <hi>bringing</hi> of them out thence, <hi>And brought them out of it with an high hand,</hi> v. 17. <hi>Fourthly,</hi> In his <hi>Indulgence</hi> and patience towards them in the wilderneſs, <hi>v.</hi> 18. <hi>And above the time of forty years ſuffered he their manners in the wilderneſs. Fiftly,</hi> In putting them into <hi>Poſſeſsion</hi> of the Land of <hi>Canaan,</hi> v. 19, <hi>And when he had de<g ref="char:EOLhyphen"/>ſtroyed
+<pb n="13" facs="tcp:93847:8" rendition="simple:additions"/>
+ſeven nations in the land of Canaan, he divided their land to them by lot.</hi> Sixth<g ref="char:EOLhyphen"/>ly, In <hi>Eſtabliſhing a Civil Government</hi> among them, firſt, by <hi>Judges, He gave unto them Judges,</hi> v. 20. And afterwards (upon their deſire) by <hi>Kings,</hi> delivering that government, firſt to <hi>Saul,</hi> v. 21. <hi>Af<g ref="char:EOLhyphen"/>terward they deſired a King, and God gave unto them</hi> Saul. But the <hi>Kingly Govern<g ref="char:EOLhyphen"/>ment</hi> was eſtabliſhed by <hi>God upon the houſe of David,</hi> v. 22. <hi>He raiſed up unto them David to be their King,</hi> &amp;c. and ha<g ref="char:EOLhyphen"/>ving recited theſe particular mercies of God to his people, he makes a great leap from the dayes of <hi>David</hi> to the dayes of the <hi>Meſsiah,</hi> the Son of <hi>David,</hi> and ſhuts up his Catalogue of Mercies with the mention of the <hi>greateſt</hi> and freſh<g ref="char:EOLhyphen"/>eſt mercy, namely <hi>Gods</hi> ſending a <hi>Savi<g ref="char:EOLhyphen"/>our</hi> out of <hi>Davids</hi> loynes according to his promiſe, <hi>v.</hi> 23. <hi>Of this Mans ſeed hath God according to his promiſe raiſed unto Iſrael a Saviour Jeſus.</hi>
+            </p>
+            <p>Now this being the <hi>principal Nail</hi> that the <hi>Apoſtle</hi> had to drive and <hi>faſten</hi> in that Aſſembly, he ſpends the reſt of his Sermon in <hi>driving that Naile-home;</hi> proving that this <hi>Promiſe</hi> made
+<pb n="14" facs="tcp:93847:9"/>
+to <hi>David</hi> was <hi>fulfilled</hi> in the ſame <hi>Jeſus,</hi> whom their Rulers at <hi>Jeruſalem</hi> Cruci<g ref="char:EOLhyphen"/>fied: And this he proves, Firſt, By <hi>Johns</hi> coming, as his fore-runner, to preach Repentance according to the Prophecyes of <hi>Iſaiah</hi> and <hi>Malachie,</hi> v. 24 <hi>When John had firſt preached before his coming the Baptiſm of Repentance to all the people of Iſrael.</hi>
+               <note place="margin">Iſai. 40.3 Malach. 3.1.4.5, 6.</note> Secondly, He proves it by the expreſſe Teſtimony that <hi>John</hi> gave of him, <hi>v.</hi> 25. <hi>He ſaid, I am not he, but behold there cometh one after me, &amp;c.</hi> Thirdly, He proves it by the fulfilling of the ancient Prophecies of Scripture in his cruel and cauſeleſs death, <hi>v.</hi> 27, 28. <hi>For they that dwelt at Jeruſalem and their Rulers, becauſe they knew him not, nor yet the voice of the Prophets which are read e<g ref="char:EOLhyphen"/>very Sabbath day, they have fulfilled them in condemning him. And though they found no cauſe of death in him, yet they de<g ref="char:EOLhyphen"/>livered him to Pilate that he ſhould be ſlain.</hi> Fourthly, He proves the ſame thing by his Reſurrection from the dead, <hi>v.</hi> 29.30 <hi>And when they had fulfilled all that was written of him, they took him down from the tree and laid him in the Sepulchre; But God raiſed him from the dead,</hi> Which
+<pb n="15" facs="tcp:93847:9"/>
+Reſurrection of the Lord Jeſus is pro<g ref="char:EOLhyphen"/>ved,</p>
+            <p n="1">1. By the Teſtimony of Eye-witneſſes, <hi>v.</hi> 31. <hi>And he was ſeen many days of them who came up with him from Galilee to Je<g ref="char:EOLhyphen"/>ruſalem, who are his witneſſes to the peo<g ref="char:EOLhyphen"/>ple.</hi>
+            </p>
+            <p>And 2. He proves this Reſurre<g ref="char:EOLhyphen"/>ction of Chriſt, by Teſtimonies of Scri<g ref="char:EOLhyphen"/>pture foretelling his Reſurrection, <hi>ver.</hi> 34, 35, 36, 37. Then you have the Ap<g ref="char:EOLhyphen"/>plication of all this to the hearers in particular, <hi>v.</hi> 38, 39. And ſo the Apo<g ref="char:EOLhyphen"/>ſtle concludes his Sermon with a ſeri<g ref="char:EOLhyphen"/>ous admonition to his Hearers not to deſpiſe nor reject this offered Grace.</p>
+            <p>In all which diſcourſe and carriage of <hi>Paul</hi> you have nothing but what doth really evidence that Bleſſed and Holy Spirit, whoſe fruits are <hi>Love, Peace,</hi>
+               <note place="margin">Gal. 5.22, 23</note> 
+               <hi>Long-ſuffering, Gentleneſs, Goodneſſe, Faith, Meekneſſe, Temperance.</hi> Here is not one bitter boyſterous intem<g ref="char:EOLhyphen"/>perate word in all this Diſcourſe of <hi>Pauls.</hi>
+            </p>
+            <p>How far are they from this <hi>Apoſto<g ref="char:EOLhyphen"/>lical Spirit,</hi> that pretend in theſe times
+<pb n="16" facs="tcp:93847:10"/>
+to be the only <hi>Apoſtolical men,</hi> and to be <hi>guided</hi> and <hi>acted</hi> by as <hi>Infallible a Spi<g ref="char:EOLhyphen"/>rit,</hi> as the Apoſtles themſelves were: They will tell you, the <hi>Spirit</hi> moves them, and bids them <hi>go to ſuch a Town, to ſuch a Meeting-place;</hi> Well: what do they when they are there? Do they ſit as <hi>Paul</hi> and <hi>Barnabas</hi> did, and demean themſelves with gravity and reverence becoming ſuch an Aſſembly? No, but carry themſelves in ſuch a proud, ſcornful wild, diſdainful manner, that their very preſence is a diſturbance to the whole Congregation. Do they wait till they are invited and called to ſpeak, as <hi>Paul</hi> and <hi>Barnabas</hi> did? No but as ſoone as the laſt word is out of the Miniſters mouth (if not before) they blow their Trumpet, ſound their Alarm, bid defi<g ref="char:EOLhyphen"/>ance to him, his Doctrine and Cal<g ref="char:EOLhyphen"/>ling.</p>
+            <p>And when they ſpeak, what? Do they uſe ſober, meek and gentle ſpeeches, as the Apoſtle <hi>Paul</hi> here, <hi>Men of Iſrael, and all ye that fear God.</hi> Do they bring cleare evidence, Scripture Arguments, and ſolid Reaſons, as the Apoſtle <hi>Paul</hi> here doth? No, but break out into
+<pb n="17" facs="tcp:93847:10"/>
+bittereſt railings and curſings, condemn<g ref="char:EOLhyphen"/>ing for Hypocrites, and Damned, and full of the Divel all but themſelves. Whether theſe men be acted by an <hi>Apo<g ref="char:EOLhyphen"/>ſtolical Spirit</hi> or by a <hi>Diabolical Spirit,</hi> whether their Tongues be touched with a Cole from the Lords Altar or ſet on fire of Hell, it is eaſie to judge, if it be true which our Saviour ſaith,<note place="margin">Mat. 12.37</note> 
+               <hi>By thy words thou ſhalt be Juſtified, and by thy words thou ſhalt be Condemned.</hi>
+            </p>
+            <p>Out of this whole Diſcourſe of <hi>Pauls</hi> I have made choice of the words of the 36 verſe to inſiſt upon at this time, and upon this Occaſion. <hi>But David after he had ſerved his Generation, by the will of God fell on ſleep, and was laid unto his Fa<g ref="char:EOLhyphen"/>thers, and ſaw Corruption.</hi>
+            </p>
+            <p>Which words are a prevention of an Objection that might be made againſt a Scripture which the Apoſtle in the verſe immediately foregoing had cited out of the ſixteenth Pſalm to prove the Reſur<g ref="char:EOLhyphen"/>rection of Chriſt, in theſe words,<note place="margin">Scopus Verbe<g ref="char:EOLhyphen"/>rum.</note> 
+               <hi>Thou ſhalt not ſuffer thine holy One to ſee corrup<g ref="char:EOLhyphen"/>tion.</hi> Now leſt the Jews ſhould in their hearts object that this place might be ſpoken by <hi>David</hi> of himſelf, the Apo<g ref="char:EOLhyphen"/>ſtle
+<pb n="18" facs="tcp:93847:11"/>
+Anticipates this, and ſhews that this <hi>place</hi> cannot be <hi>competent</hi> to David <hi>pro<g ref="char:EOLhyphen"/>perly</hi> and <hi>directly,</hi> but <hi>only</hi> as he was a <hi>Type</hi> of <hi>Chriſt,</hi> and by way of <hi>partici<g ref="char:EOLhyphen"/>pation,</hi> as he ſhould, together with the reſt of the godly, be raiſed up by Chriſt. <hi>For David after he had ſerved his own Ge<g ref="char:EOLhyphen"/>neration by the will of God, fell on ſleep, and was laid to his Fathers, and ſaw corrupti<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <p>In which words we have conſiderable <hi>firſt,</hi>
+               <note place="margin">Diviſio Textus.</note> the perſon ſpoken of, <hi>David;</hi> ſe<g ref="char:EOLhyphen"/>condly, the employment of this perſon, he <hi>Served;</hi> thirdly, the Object on which he beſtowed his pains and ſervice, <hi>his own Generation;</hi> fourthly, the moving, or ordering, or regulating cauſe of this, <hi>the will of God;</hi> fiftly, the iſſue and e<g ref="char:EOLhyphen"/>vent of this in three particulars, firſt, <hi>he fell on ſleep,</hi> ſecondly, <hi>he was laid to his Fathers,</hi> thirdly, <hi>he ſaw corrupti<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <p>
+               <hi>David,</hi> a man whom God found out and framed according to his own heart,<note place="margin">Explicatio Verborum.</note> and took from following the Ewes great with young to feed and Rule his people Iſrael, whom God advanced from a mean and low condition to the higheſt
+<pb n="19" facs="tcp:93847:11"/>
+Pinacle of honour, ſetting his Throne higher then the Kings of the earth.<note place="margin">Pſalm 89.27</note>
+            </p>
+            <p>He <hi>Served,</hi> not <hi>Himſelf</hi> by an Exorbitant, Arbitrary Government, as his prede<g ref="char:EOLhyphen"/>ceſſor <hi>Saul</hi> had done, but he <hi>ſerved O<g ref="char:EOLhyphen"/>thers, he ſerved All, he ſerved his own Ge<g ref="char:EOLhyphen"/>neration.</hi>
+            </p>
+            <p>That word <hi>Generation,</hi> is a word of frequent and various uſe in Scripture. I ſhall not lead you through them all, I ſhall only give you notice of four or five,</p>
+            <p>
+               <hi>Firſt,</hi> Sometimes it ſignifies a Suc<g ref="char:EOLhyphen"/>ceſſion of men begetting and propagat<g ref="char:EOLhyphen"/>ing one another, ſo in the firſt of <hi>Matthew</hi> there are reckoned from <hi>Abraham</hi> to Chriſt two and forty Generations, that is, Succeſſions of children ſtanding up in their fathers rooms.</p>
+            <p>
+               <hi>Secondly,</hi> Sometimes it ſignifies All the men that live together at the ſame time; ſo <hi>Gen.</hi> 6.9. it is ſaid of <hi>Noah, That he was a Juſt man and perfect in his Generations,</hi> that is, among, the men of that Age wherein he lived.</p>
+            <p>
+               <hi>Thirdly,</hi> It ſignifies men of a like qua<g ref="char:EOLhyphen"/>lity and diſpoſition, though they live in
+<pb n="20" facs="tcp:93847:12"/>
+ſeveral ages and periods of time, as <hi>Pſal.</hi> 14.5. <hi>God is in the Generation of the righ<g ref="char:EOLhyphen"/>teous.</hi> And Pſal. 24.6. <hi>This is the Gene<g ref="char:EOLhyphen"/>ration of them that ſeek thee.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Sometimes it ſignifies a fa<g ref="char:EOLhyphen"/>mily or nation; ſo <hi>Mat.</hi> 24.34. <hi>Verily, I ſay unto you, this Generation ſhall not paſſe till all theſe things be fulfilled.</hi> Which words cannot be underſtood of that par<g ref="char:EOLhyphen"/>ticular Race of the Jews which were liv<g ref="char:EOLhyphen"/>ing upon the earth in our Saviours dayes, for they are paſſed away long a<g ref="char:EOLhyphen"/>goe, but muſt be underſtood of the peo<g ref="char:EOLhyphen"/>ple and nation of the Jews in all their de<g ref="char:EOLhyphen"/>current ſucceſſions. And the meaning of the words muſt be this, That whate<g ref="char:EOLhyphen"/>ver devaſtations and deſolations ſhould come upon <hi>Jeruſalem</hi> according to the Predictions of that Chapter, the Jews ſhould yet remain a People, a Nation di<g ref="char:EOLhyphen"/>ſtinct from all other Nations, though ſcattered among them all the world o<g ref="char:EOLhyphen"/>ver, even to the coming of Chriſt in Judgment. That whereas other Nati<g ref="char:EOLhyphen"/>ons living among ſtrangers become in<g ref="char:EOLhyphen"/>corporate with them in a few Generati<g ref="char:EOLhyphen"/>ons, only the Jews wherever they live ſtill remain a Nation diſtinct from all
+<pb n="21" facs="tcp:93847:12"/>
+other Nations. And this is the ſenſe of the word Generation in that place. So <hi>Matth. Flacius Clavis Script. part.</hi> 1. <hi>ad verbum.</hi>
+               <note place="margin">De ſenſu buj<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Loci qui plur<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> velit Conſulat Commentario<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in primi Ger<g ref="char:EOLhyphen"/>hardi continu<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tion em Harm<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>niae.</note> In this place it is to be taken in the ſecond ſenſe. <hi>David ſerved his own Generation,</hi> that is, that company of men with whom he was Contempora<g ref="char:EOLhyphen"/>neous, who lived all the ſame time that he himſelf lived. Unleſſe you will adde a</p>
+            <p>
+               <hi>Fifth</hi> ſenſe of the word, whereby it ſignifies the age or terme of life, which ſenſe ſome contend for in that foremen<g ref="char:EOLhyphen"/>tioned place, <hi>Matth.</hi> 24.34. and ſo the meaning is, <hi>David ſerved his own Generati-</hi> that is, <hi>David</hi> was an uſeful, ſerviceable man all the dayes of his life, even to his dying day, for <hi>David after he had ſerved his own Generation by the will of God, fell on ſleep.</hi>
+            </p>
+            <p>
+               <hi>By the will of God,</hi> or by the counſel of God, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which <hi>Inciſum</hi> or branch of the Verſe is variouſly pointed in ſeveral Coppies; ſome cut it off from the foregoing words and affix it to the word following, and making a <hi>Comma</hi> at the foregoing word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they read it thus <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>By the will of
+<pb n="22" facs="tcp:93847:13"/>
+God he fell on ſleep.</hi> So <hi>Arias Montauus</hi> in his Interlineary. And ſo ſome other Coppies; and this Punctation <hi>Eraſmus</hi> followed in his Latine Tranſlation. But <hi>Beza</hi> rejects this pointing wholy, and ſaith, <hi>Haec diſtinctio neque in vetuſtis co<g ref="char:EOLhyphen"/>dicibus reperitur, neque ullâ ratione niti<g ref="char:EOLhyphen"/>tur.</hi> Neither doth <hi>Stephanus</hi> take any notice of it in his <hi>Variae Lectiones</hi> upon the New Teſtament. Therefore the more true and right reading of the Text ſeems to be that which our Tranſlation follows, wherein that Phraſe <hi>[By the will of God]</hi> is annexed to the words fore<g ref="char:EOLhyphen"/>going, and the Text thus read, <hi>For David after he had ſerved his own Gene<g ref="char:EOLhyphen"/>ration by the will of God, fell on ſleep.</hi>
+            </p>
+            <p>And yet even ſo read, the words as <hi>Ca<g ref="char:EOLhyphen"/>merarius</hi> hath obſerved, have' <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>quandam,</hi> a kind of Ambiguity, although ſo far from being hurtful that it is profi<g ref="char:EOLhyphen"/>table, for that phraſe <hi>by the will of God,</hi> may be referred either to the <hi>Generation,</hi> and ſo the meaning is, <hi>David</hi> ſerved that <hi>Generation</hi> which it was the <hi>will and counſel of God to caſt him upon.</hi> Or elſe it may be referred to the ſervice that <hi>Da<g ref="char:EOLhyphen"/>vid</hi> did to his Generation, and ſo the
+<pb n="23" facs="tcp:93847:13"/>
+meaning is, <hi>David</hi> ſerved his own Ge<g ref="char:EOLhyphen"/>neration, not after his own will, or fan<g ref="char:EOLhyphen"/>cy, or humor, or the humours, fancies or wils of other men, but after the will of God, <hi>For David after he had ſerved his generation by the will of God, fell on ſleep.</hi>
+            </p>
+            <p>
+               <hi>Fell on ſleep,]</hi> That's a Phraſe often u<g ref="char:EOLhyphen"/>ſed in Scripture to ſignifie death, eſpeci<g ref="char:EOLhyphen"/>ally of the Righteous, it's uſually ſaid of them, as of <hi>David</hi> here, <hi>he fell on ſleep.</hi>
+            </p>
+            <p>
+               <hi>And was laid to his Fathers]</hi> That phraſe is often alſo uſed in Scripture of the Bu<g ref="char:EOLhyphen"/>rial and Interment of the Saints, <hi>he was laid to his Fathers.</hi>
+            </p>
+            <p>
+               <hi>And ſaw Corruption,]</hi> That is, his bo<g ref="char:EOLhyphen"/>dy rotted in the grave: <hi>Videre ſignificat ſentire aut experiri aliquid.</hi>
+            </p>
+            <p>The words (like <hi>Joſeph</hi>) are a fruit<g ref="char:EOLhyphen"/>full Branch,<note place="margin">Deductio Do<g ref="char:EOLhyphen"/>ctrinarum</note> from whence mïght be ga<g ref="char:EOLhyphen"/>thered many comfortable and profitable doctrines, as namely,</p>
+            <p n="1">1. <hi>Firſt,</hi> In the general from the men<g ref="char:EOLhyphen"/>tion which the <hi>Holy Ghoſt</hi> here makes of <hi>David,</hi> which you ſee here as in other places of Scripture is altogether honou<g ref="char:EOLhyphen"/>rable, here is no mention of any <hi>diſ-ſer<g ref="char:EOLhyphen"/>vice
+<pb n="24" facs="tcp:93847:14"/>
+David</hi> did his <hi>generation.</hi> Not one word of his being the occaſion of the death of 85 of the Lords Prieſts in one day, they, their wives and their children; Not a word of his defiling <hi>Bathſheba</hi> or murthering <hi>Uriah,</hi> or Numbring the people which coſt the lives of ſeventy thouſand in three dayes. Not a word of any of this, but only what an uſeful ſer<g ref="char:EOLhyphen"/>viceable man he was.</p>
+            <p>Thence obſerve in the firſt place, <hi>That God values thoſe that are in Chriſt, and have repented of their ſins, not according to the evil but the good that hath been in them.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> and more particularly, <hi>That ſeveral particular perſons have their ſeve<g ref="char:EOLhyphen"/>ral particular generations to ſerve in.</hi> Da<g ref="char:EOLhyphen"/>vid here in the Text ſerved <hi>his</hi> generati<g ref="char:EOLhyphen"/>on, ſo <hi>Noah his,</hi> ſo <hi>Moſes his,</hi> ſo <hi>Paul his:</hi> The ſervice that <hi>Noah</hi> did would not have been proper nor ſuitable in <hi>Moſes</hi> his generation, nor <hi>Moſes</hi> in <hi>Davids,</hi> nor any of them in <hi>Pauls.</hi> Several perſons have their ſeveral particular generations to ſerve in.</p>
+            <p>Thirdly, <hi>That particular generation which every perſon is to ſerve in is allotted
+<pb n="25" facs="tcp:93847:14"/>
+him by the counſel and will of God; For David after he had ſerved his own gene<g ref="char:EOLhyphen"/>ration by the will of God;</hi> it is not by chance that men are caſt upon the gene<g ref="char:EOLhyphen"/>ration they live in; men are not thrown into the world by God as we caſt Coun<g ref="char:EOLhyphen"/>ters out of a bag, neither knowing nor re<g ref="char:EOLhyphen"/>garding which comes firſt, which laſt: No, God who doth all things in number, weight and meaſure, he, from Eternity, hath appointed and allotted unto every man the Age and Generation he ſhall ſerve in. Act. 17.26. <hi>He hath made of One blood all Nations to dwell upon the face of the earth, and hath determined the times before appointed, and the bounds of their habitations.</hi>
+            </p>
+            <p>Fourthly, <hi>It is a great honour to the greateſt man upon earth to be ſerviceable to and in his own generation. David</hi> though a <hi>King,</hi> yet this is ſpoken of him by way of <hi>Praiſe</hi> and Commendation, <hi>He ſerved his own generation.</hi>
+            </p>
+            <p>Fiftly, <hi>It is a good mans honour to be ſerviceable to his generation his whole time: David</hi> ſerved his <hi>geneeation</hi> not an <hi>Apprentiſhip</hi> only, or <hi>three Apprentiſhips,</hi> as <hi>Jacob</hi> ſerved <hi>Laban,</hi> but his <hi>whole</hi> Life
+<pb n="26" facs="tcp:93847:15"/>
+time; he <hi>ſerved</hi> his <hi>generation</hi> till he <hi>fell</hi> on <hi>ſleep.</hi> His <hi>ſerving</hi> his <hi>generation</hi> was not like <hi>Tiberius</hi> his <hi>Quinquenni<g ref="char:EOLhyphen"/>um.</hi>
+            </p>
+            <p>Sixtly, <hi>The Rule of our ſerving our ge<g ref="char:EOLhyphen"/>neration muſt not be our own will nor the will of men, but the will of God:</hi> For <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ſerved his own generation by the will of God.</p>
+            <p n="7">7<hi rend="sup">ly</hi>, <hi>There is a time when all our ſerving of our generation ſhall ceaſe and we ſhall fall a<g ref="char:EOLhyphen"/>ſleep:</hi> For <hi>David</hi> after he had ſerved his own generation by the will of God, fell on ſleep.</p>
+            <p>Eightly, <hi>The death eſpecially of the righ<g ref="char:EOLhyphen"/>teous and godly it is a ſleep.</hi>
+            </p>
+            <p>
+               <note place="margin">Hoc ex varia<g ref="char:cmbAbbrStroke">̄</g> Lectione.</note>Ninthly, <hi>The time of mens ſleeping the ſleep of death it is determined and appoint<g ref="char:EOLhyphen"/>ed by God:</hi> David fell on ſleep by the will of God.</p>
+            <p>Tenthly, <hi>God will have his children ſerve out their generation before they dye:</hi> It was not the will or counſel of God that <hi>David</hi> ſhould die till he had ſerved his generation.</p>
+            <p>
+               <hi>Eleventhly,</hi> Men by death are laid to their Fathers: <hi>Eunt ad plures</hi> was the Heathens phraſe of death, <hi>Eunt ad patres</hi>
+               <pb n="27" facs="tcp:93847:15"/>
+is the Scripture phraſe: <hi>David fell on ſleep and was laid to his fathers.</hi>
+            </p>
+            <p>Twelfthly, and laſtly, <hi>All that ever dy<g ref="char:EOLhyphen"/>ed or ſhall dye (except the Lord Jeſus Chriſt) all elſe even the greateſt and holi<g ref="char:EOLhyphen"/>eſt muſt and ſhall ſee Corruption:</hi> David, a <hi>King,</hi> yea, which is more, a <hi>Saint,</hi> and which is yet more, a <hi>Prophet,</hi> yet he ſaw Corruption. Only the Lord <hi>Jeſus Chriſt,</hi> becauſe he ſaw no Corruption in the womb, he ſaw no Corruption in the grave; becauſe there followed no <hi>Cor<g ref="char:EOLhyphen"/>ruption</hi> of ſin upon the <hi>union</hi> of Chriſts Soul and Body in his <hi>Conception,</hi> there followed no <hi>Corruption</hi> of body upon the <hi>diſſolution</hi> of that union. <hi>But</hi> David <hi>after that he had ſerved his own generation by the will of God, fell on ſleep, and was laid to his Fathers, and ſaw Corruption.</hi>
+            </p>
+            <p>So that you ſee my Text, like <hi>Iacob,</hi> out of whoſe loins iſſued <hi>twelve ſons;</hi> or like <hi>Elim,</hi> where the people of Iſrael met with twelve wells: Or the five <hi>particu<g ref="char:EOLhyphen"/>lars</hi> of this Text are like thoſe <hi>five leaves</hi> (of which you read in the Goſpel) which being broken multiplyed into <hi>twelve baskets full.</hi> I ſhall empty but one of theſe <hi>Baskets</hi> for your entertainment at
+<pb n="28" facs="tcp:93847:16"/>
+this time, and lead you but to one of theſe <hi>twelve wells</hi> for your refreſhing, &amp; and that is the <hi>Doctrine</hi> which is the fourth in order, and was laid down in theſe words,
+<q>
+                  <note place="margin">Doctrina ela<g ref="char:EOLhyphen"/>boranda.</note>That it is a great honour to the greateſt upon earth to be ſerviceable to and in his own generation.</q>
+            </p>
+            <p>
+               <hi>David,</hi> though a <hi>King,</hi> though a <hi>Saint,</hi> though (in ſome ſenſe) a <hi>King of Saints,</hi> yet this is ſpoken of him in his praiſe, <hi>He ſerved his</hi> (or in his) <hi>own generati<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <p>
+               <note place="margin">Explicatio Do<g ref="char:EOLhyphen"/>ctrine.</note>In the Original it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the word ſignifies not a verbal ſuperfici<g ref="char:EOLhyphen"/>all complemental ſervice, ſuch as our Times abounds with the profeſſion of, (your ſervant Sir, is in every mans mouth) but a Real, Painful, Laborious ſervice. The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> moſt pro<g ref="char:EOLhyphen"/>perly ſignifying one that takes pains and tugs at the Oar. <hi>David</hi> found the <hi>Church</hi> and <hi>Commonwealth of Iſrael</hi> in a Craſie, Leaky condition, and he laboured hard and took pains to <hi>ſerve his generation,</hi> and to bring that weather-beaten bottom the
+<pb n="29" facs="tcp:93847:16"/>
+generation was imbarked in, into ſafe Harbor.</p>
+            <p>The words is uſed <hi>Act.</hi> 20.34. to ſig<g ref="char:EOLhyphen"/>nifie to ſerve by way of relief: <hi>Theſe hands</hi> (ſaith the Apoſtle) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>have mini<g ref="char:EOLhyphen"/>ſtred to my Neceſsities, and, the neceſsities of them that were with me.</hi> So <hi>David ſerved his own generation;</hi> that is, he miniſtred to the Neceſſities of his gene<g ref="char:EOLhyphen"/>ration. In <hi>Acts</hi> 24.23. it ſignifies Cour<g ref="char:EOLhyphen"/>teſies. and Offices of Love, where it is ſaid, <hi>Felix</hi> commanded the <hi>Centurion</hi> to keep <hi>Paul,</hi> and let him have his liberty, and to <hi>forbid none of his friends</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to miniſter to him,</hi> to do any office of Love to him. So <hi>David</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, did many offices of Love to his generation, and this was his praiſe and honour. This is as it were <hi>Engraven</hi> by the <hi>Holy Ghoſt</hi> upon his <hi>Tomb-ſtone</hi> in ſtead of all other <hi>Encomiums,</hi> he ſerved his own generation. And this every man how great ſoever ſhould look upon as his greateſt honour, ſaying with <hi>Max<g ref="char:EOLhyphen"/>iminius</hi> the Emperor, <hi>Quo major ſum eò magis laborare cupio,</hi> The greater I am the more work I deſire to do. And make that his <hi>Motto</hi> which was once the <hi>Motto</hi>
+               <pb n="30" facs="tcp:93847:17"/>
+of the Prince of <hi>Wales, Ich Dien.</hi>
+            </p>
+            <p>You may conſider <hi>David</hi> in a <hi>three-fold capacity;</hi> firſt, in a <hi>Private Capacity,</hi> as a <hi>Member</hi> of the <hi>Jewiſh Commonwealth;</hi> ſecondly, in his <hi>Politick Capacity,</hi> as a <hi>King</hi> in Iſrael; thirdly, in his <hi>Eccleſiaſti<g ref="char:EOLhyphen"/>cal Capacity,</hi> as a <hi>Member</hi> of the Church of the Jews; and in all theſe you ſhall find <hi>David</hi> doing <hi>eminent ſervice</hi> and Offices of Love <hi>for his generation.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> In his <hi>Private Capacity,</hi> Da<g ref="char:EOLhyphen"/>vid <hi>ſerved his own generation</hi> ſeveral wayes; I will inſtance only in three, which are <hi>imitable</hi> and <hi>attainable</hi> by o<g ref="char:EOLhyphen"/>ther private perſons:</p>
+            <p>Firſt, <hi>David</hi> as a Private perſon did ſerve his generation by bewailing the ſins and provocations of the Time and Age wherein he lived. So <hi>Pſalm</hi> 119.136. <hi>Rivers of tears run down mine eyes becauſe men keep not thy Laws.</hi> David doth not only now and then drop a Tear, but mourns conſtantly, mourns impetu<g ref="char:EOLhyphen"/>ouſly, until his tears (like the waters in <hi>Ezekiel</hi>) ſwell into a River, and that (not only for his own ſins, but) for the ſins of others; for the ſins of the Times: and that was one <hi>ſpecial ſervice</hi> and office of
+<pb n="31" facs="tcp:93847:17"/>
+love done for his <hi>generation.</hi> Thus <hi>Lot</hi> was ſerviceable to <hi>his</hi> generation when he lived in <hi>Sodome,</hi> 2 Pet. 2.8. Thus <hi>Ezra</hi> was ſerviceable to his generation, <hi>Ezra.</hi> 9.6. Thus <hi>Jeremiah,</hi> Jer. 4.6. Thus the godly in <hi>Ezekiels</hi> dayes, <hi>Ezek.</hi> 9.6. It is Eminent <hi>Service</hi> done in and to <hi>our ge<g ref="char:EOLhyphen"/>neration</hi> to bewail the ſins of it.</p>
+            <p>Secondly, <hi>David</hi> as a <hi>Private Perſon</hi> did <hi>ſerve his generation</hi> by making <hi>inter<g ref="char:EOLhyphen"/>ceſsion</hi> and ſupplication for them, by thruſting himſelf into the gap and inter<g ref="char:EOLhyphen"/>poſing himſelf between the wrath of God and the poor people. So 2 <hi>Sam.</hi> 24.17. <hi>Lo I have ſinned and I have done wickedly, let thy hand I pray thee be upon me and up<g ref="char:EOLhyphen"/>on my fathers houſe. David</hi> here offers his own neck to the <hi>Sword</hi> of Divine <hi>Ju<g ref="char:EOLhyphen"/>ſtice</hi> to ſave the people. This was a pow<g ref="char:EOLhyphen"/>erful Interceſſion, an excellent <hi>Service</hi> done to his <hi>generation,</hi> upon which the Plague was ſtayed. <hi>David</hi> here did by the Angel, as the Angel did by <hi>Abraham,</hi> when <hi>Abraham</hi> had ſtretched out his drawn ſword over <hi>Iſaac</hi> to ſlay him, the Angel catcheth hold upon his ſword and ſtayeth his hand: So here the Angel had ſtretched out his drawn ſword
+<pb n="32" facs="tcp:93847:18"/>
+over <hi>Ieruſalem</hi> to deſtroy it, and <hi>David</hi> comes and catches hold of the ſword and ſtayes the Angel and ſaves <hi>Jeruſalem:</hi> this was excel<g ref="char:EOLhyphen"/>lent ſervice done to his <hi>generation.</hi> Thus alſo <hi>Moſes</hi> did ſerve his generation, <hi>Exo.</hi> 32.31. <hi>Num.</hi> 16.40. Thus <hi>Samuel,</hi> thus <hi>Ieremiah,</hi>
+               <note place="margin">1 Sam 12.23 Jer. 18.20. Dan. 9. Ezra 9</note> thus <hi>Daniel,</hi> thus <hi>Ezra,</hi> thus the holy men of God from time to time have done <hi>ſervice to their generati<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <p>Thirdly, <hi>David</hi> as a Private Perſon ſerved his <hi>generation</hi> by <hi>walking</hi> before them in the <hi>example</hi> of an <hi>holy, unblemi<g ref="char:EOLhyphen"/>ſhed, beautiful Converſation.</hi> God, you know, every where gives this Teſtimo<g ref="char:EOLhyphen"/>ny of him, That he was a <hi>man after Gods own heart:</hi> So Eminently <hi>Exemplary</hi> was the life of <hi>David</hi> for holineſſe and uprightneſſe, as that it is made the <hi>Stand<g ref="char:EOLhyphen"/>ard</hi> and <hi>Meaſure</hi> of the <hi>uprightneſſe</hi> of o<g ref="char:EOLhyphen"/>thers. And all that followed after him in the line of ſucceſſion are reputed ei<g ref="char:EOLhyphen"/>ther <hi>good</hi> or <hi>bad,</hi> according as they <hi>walked</hi> or <hi>walked</hi> not in the ſteps of their Father <hi>David. David</hi> led the <hi>way</hi> and ſet the <hi>coppy</hi> of a <hi>holy life</hi> not only to his <hi>own ge<g ref="char:EOLhyphen"/>neration,</hi> but to the <hi>generations</hi> that <hi>ſuc<g ref="char:EOLhyphen"/>ceeded</hi>
+               <pb n="33" facs="tcp:93847:18"/>
+after him. And thus every <hi>godly</hi> Chriſtian may and muſt ſerve their <hi>ge<g ref="char:EOLhyphen"/>neration.</hi> Being <hi>harmeleſſe and blameleſſe, the ſons of God, without rebuke, in the midſt of a crooked and perverſe generation a<g ref="char:EOLhyphen"/>mong whom you ſhine as Lights,</hi> Phil. 2.15 Every Chriſtian man and woman the worſe the generation is in which they live, the better they ſhould ſtrive to be; that they might be as ſo many Stars in a dark night, ſhining before others, and guiding their wayes by the light of a gracious and holy Example. So did <hi>David,</hi> and thus ſerved his generation in his <hi>Private Capacity.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> In his <hi>Political Capacity,</hi> as a Magiſtrate, as a King: <hi>David ſerved his generation</hi> by adminiſtring <hi>Judgment</hi> and governing righteouſly, <hi>Pſal.</hi> 75.2. <hi>When I ſhall receive the Congregation I will judge uprightly.</hi> Pſalm 101.8. <hi>I will early deſtroy all the wicked of the land, that I may cut off evil doers from the City of the Lord.</hi> Thus <hi>Phinehas</hi> alſo <hi>ſerved his generation,</hi> Pſalm 106.30. <hi>Then ſtood up Phinehas and executed judgment, and ſo the plague was ſtayed. David</hi> in the whole courſe of his Magiſtracy <hi>ſerved
+<pb n="34" facs="tcp:93847:19"/>
+his generation</hi> by making the <hi>peoples good</hi> the <hi>publick good,</hi> the <hi>good</hi> of the <hi>ge<g ref="char:EOLhyphen"/>neration</hi> in which he lived, the end of his government, and not his own Pompe and <hi>grandeur.</hi> In which reſpect it is ſaid of him, <hi>Pſal.</hi> 78.72. <hi>That he fed</hi> (or governed) <hi>the people according to the inte<g ref="char:EOLhyphen"/>grity of his heart;</hi> whereby he attained that happineſſe that few Kings and Prin<g ref="char:EOLhyphen"/>ces that ever were in the world have had beſides him. That the people found no fault at all with any thing he did in his Government. But <hi>whatſoever the King did pleaſed the people,</hi> 2 Sam. 3.36. Why? Becauſe the people evidently ſaw that whatſoever the King did he ſought their peace, and proſperity, and welfare in it. Thus he ſerved his generati<g ref="char:EOLhyphen"/>on in his <hi>Political Capacity,</hi> as a <hi>Magi<g ref="char:EOLhyphen"/>ſtrate.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> In his <hi>Eccleſiaſtical Capacity,</hi> and as a <hi>Church-Member:</hi> David ſerved his <hi>generation</hi> in the things of <hi>Religion</hi> and of the worſhip of <hi>God.</hi> For,</p>
+            <p>
+               <hi>Firſt,</hi> Whereas before the dayes of <hi>David</hi> Iſrael had been deſtitute of the <hi>Ark</hi> of God:<note place="margin">1 Sam. 4.21</note> (the viſible Teſtimony of Gods preſence among that <hi>people,</hi> and
+<pb n="35" facs="tcp:93847:19"/>
+ſo their glory) The Ark had now for a long time been a ſtranger to Iſrael, and for a longer time been a ſtranger to the Tent and Tabernacle which was its reſt<g ref="char:EOLhyphen"/>ing place. <hi>David</hi> was the firſt man that made the motion for bringing back the <hi>Ark</hi> to the Tabernacle of the Lord, 2 <hi>Sam.</hi> 6. And when they were diſcou<g ref="char:EOLhyphen"/>raged in their firſt attempt by the breach which God made upon them for a miſ<g ref="char:EOLhyphen"/>carriage and irregularity in that action, <hi>David's</hi> heart was ſo ſet upon the work that he could not be taken off, but after a little pauſe he ſets upon it a ſecond time and with a great deal of joy and triumph brings the <hi>Ark</hi> home to <hi>Jeruſalem,</hi> though not without the ſlighting and ſcorn of his own wife <hi>Michol.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Thinking it an unbecom<g ref="char:EOLhyphen"/>ing thing for himſelf to dwell in a houſe of Cedar,<note place="margin">2 Sam. 7.3</note> when the Ark of God dwelt in Curtains, he reſolved with him<g ref="char:EOLhyphen"/>ſelf to build an houſe, a Temple for the Ark of God to dwell in: And although God expreſly forbad him to do this, becauſe he had deſigned another hand for that work; yet ſuch was <hi>Davids</hi> love to, and zeal for <hi>Religion,</hi> that he prepares
+<pb n="36" facs="tcp:93847:20"/>
+all materials needful for ſo Magnificent a work. <hi>Now I have prepared</hi> (ſaith he, 2 Chro. 29.2, 3) <hi>with all my might for the houſe of my God, gold, and ſilver, and braſſe, and iron, and wood, and onix ſtones, and ſtones to be ſet, glittering ſtones, and ſtones of divers colours, and all manner of precious ſtones, and marble ſtones in abun<g ref="char:EOLhyphen"/>dance.</hi> Thus <hi>David</hi> as a Member of the Church ſerved his own (and after) ge<g ref="char:EOLhyphen"/>nerations in the things of God, in the promoting of Religion and the worſhip of God. And thus <hi>Ezra</hi> and <hi>Nehemiah,</hi> thus <hi>Zerobabell</hi> and <hi>Joſhua ſerved their generations.</hi>
+            </p>
+            <p>Yet further, <hi>David</hi> as a man extra<g ref="char:EOLhyphen"/>ordinarily inſpired by God, did ſerve <hi>his generation</hi> by Compoſing <hi>Pſalms</hi> to be ſung publickly in the worſhip of God which are upon record as parts of holy Scripture, and by <hi>Methodizing</hi> and <hi>Re<g ref="char:EOLhyphen"/>gulating</hi> the worſhip of God as to the courſes of the <hi>Prieſts</hi> and <hi>Levites,</hi> and the ſeveral offices that each of them were to attend upon in their Courſes, 1 <hi>Chro.</hi> 23. As alſo by drawing up and delivering unto <hi>Solomon</hi> the Scheme or Platform of the Temple which <hi>Solomon</hi> was to
+<pb n="37" facs="tcp:93847:20"/>
+build. All which things referring to the worſhip of God, <hi>David</hi> took up<g ref="char:EOLhyphen"/>on him to order, not ſimply as he was a <hi>King,</hi> but as he was a <hi>Prophet,</hi> one extraordinarily and infallibly dire<g ref="char:EOLhyphen"/>cted by <hi>God</hi> in theſe particulars, as may be collected from 1 <hi>Chron.</hi> 18.12. where it is ſaid, <hi>That David had by the Spirit the Pattern,</hi> &amp;c. And again, verſe 19. <hi>All this,</hi> ſaid <hi>David, the Lord made me underſtand in writing by his hand upon me.</hi> So that this Preſident of <hi>David</hi> may not be drawn <hi>in Exemplum</hi> by other Godly Princes; and it is <hi>(pace tantorum viro<g ref="char:EOLhyphen"/>rum dixerim)</hi> a miſtake in ſome who would give unto the Magiſtracy a kind of a Supreme &amp; Legiſlative power <hi>in Sacris</hi> (which is indeed the ſole Preogative of Jeſus Chriſt) from this example of <hi>Da<g ref="char:EOLhyphen"/>vid.</hi> But unleſs all Magiſtrates had the ſame extraordinary Spirit and Office that <hi>David</hi> had, they may not preſume to do as <hi>David</hi> did. And yet Princes and Magiſtrates have enough ſtill in <hi>Davids</hi> Example to imitate and to ſerve their ge<g ref="char:EOLhyphen"/>neration. He in all his capacities, <hi>Private, Publick, Civil, Religious,</hi> did ſerve his <hi>generation</hi> with the utmoſt of his abili<g ref="char:EOLhyphen"/>ties,
+<pb n="38" facs="tcp:93847:21"/>
+Ordinary, Extraordinary; O that others would do ſo! it would certainly be their praiſe &amp; honour as it was <hi>Davids</hi> here. It it an honour to the greateſt up<g ref="char:EOLhyphen"/>on earth <hi>to be</hi> ſerviceable <hi>to</hi> and <hi>in</hi> his <hi>ge<g ref="char:EOLhyphen"/>neration.</hi>
+            </p>
+            <p>
+               <note place="margin">Confirmatio Doctrinae à Ra<g ref="char:EOLhyphen"/>tione.</note>And it muſt needs be ſo, becauſe that <hi>Man</hi> who ſerves his <hi>generation</hi> doth <hi>good,</hi> and makes it his deſign to <hi>do good,</hi> not to ſome <hi>few,</hi> but to <hi>many,</hi> yea, to <hi>all,</hi> ſo far as it is poſſible for him in his <hi>Sphere</hi> and Capacity to attain. And hereby <hi>firſt,</hi> Evidences the richer ſtock of Grace. <hi>Se<g ref="char:EOLhyphen"/>condly,</hi> Fulfils the end of his Creation; And <hi>thirdly,</hi> Comes neareſt thoſe beings which are moſt excellent; and all this is honourable.</p>
+            <p>
+               <hi>Firſt,</hi> (I ſay) Such a <hi>man</hi> as ſerves his <hi>generation,</hi> the <hi>more</hi> ſervice he doth, the <hi>Richer</hi> ſtock of <hi>Grace</hi> and <hi>Goodneſs</hi> he evidenceth to be in him: <hi>Bonum quò communius co melius.</hi> That Conduit that is able to ſupply a whole City with waters, certainly hath a more full Spring then that which can ſupply but one ſtreet. The Sun which ſerves all the world with light certainly hath more fulneſs of light in it then ten thouſand Candles ſet up all
+<pb n="39" facs="tcp:93847:21"/>
+at once. So here, that man that can do good and be profitable and ſervicable not only to himſelf (<hi>Job</hi> 22.21.) to his own family and kindred,<note place="margin">Qui ſibi ne<g ref="char:EOLhyphen"/>quam cui bonus.</note> but to the whole Age and Generation he lives in; that man hath a rich Spring and Fountain of goodneſs in him. Certainly it is a great honour to ſuch a man.</p>
+            <p>
+               <hi>Secondly,</hi> Such a <hi>man</hi> in ſome meaſure fulfils the end of his <hi>Creation,</hi> which is to glorifie God in <hi>being good</hi> our ſelves, and <hi>doing good</hi> to others, to <hi>all</hi> as much as in us lyes. And this the very Heathen could ſee. <hi>Non ſolum nobis nati ſumus ſed Partem Patria, &amp;c.</hi>
+               <note place="margin">So Cicer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>before him.</hi> Plato.</note> And therefore the more <hi>generally</hi> and <hi>univerſally</hi> ſervice<g ref="char:EOLhyphen"/>able any man is in his <hi>generation,</hi> the near<g ref="char:EOLhyphen"/>er he comes to the <hi>End of his being;</hi> yea,</p>
+            <p>
+               <hi>Thirdly,</hi> The nearer he comes to thoſe <hi>beings</hi> which are <hi>moſt excellent:</hi> There is nothing in the whole viſible Creation <hi>more excellent</hi> then the <hi>Sun</hi> in the firma<g ref="char:EOLhyphen"/>ment; nor nothing more ſerviceable, giving light, and warmth, and influence to al the creatures under heaven. Among all the creatures of God, <hi>viſible</hi> or <hi>invi<g ref="char:EOLhyphen"/>ſible,</hi> none more <hi>excellent</hi> then the <hi>Angels;</hi>
+               <pb n="40" facs="tcp:93847:22"/>
+no, nor none ſo <hi>Serviceable;</hi> Heb. 1.14. <hi>Are they not all Miniſtring Spirits, ſent forth to Miniſter for the good of them that believe?</hi>
+            </p>
+            <p n="4">4. Yea, The Lord <hi>Jeſus Chriſt</hi> him<g ref="char:EOLhyphen"/>ſelf, who (as Man) is the firſt begotten of every creature, <hi>higher then the Angels,</hi> yet he took upon him the <hi>Form of a ſer<g ref="char:EOLhyphen"/>vant,</hi> Phil. 2. And profeſſeth, <hi>That he came not to be ministred unto, but to mini<g ref="char:EOLhyphen"/>ſter,</hi> Mat. 20.28. Yea, and now that he is in Heaven exalted to the higheſt top of <hi>Majeſty</hi> and <hi>Glory, Far above all principalities and powers, and every name that can be named,</hi> yet ſtill he continues the <hi>Miniſter of the Elect.</hi> And (with all Humility and Honour to his Bleſſed Majeſty be it ſpoken) <hi>Serves</hi> them as their <hi>High Prieſt,</hi> making continual <hi>Interceſsion</hi> to God for them.</p>
+            <p n="5">5. Yea, <hi>God himſelf</hi> as he is <hi>Primum &amp; Optimum</hi> the <hi>firſt</hi> and <hi>beſt</hi> of <hi>beings,</hi> ſo he is the <hi>moſt Communicative: He gives to all life and being,</hi> Act. 17.23, 28. <hi>He upholds all things by the word of his power,</hi> Heb. 1.3. <hi>He is good, and doth good to all,</hi> Pſalm 145.9. And there<g ref="char:EOLhyphen"/>fore the more <hi>generally</hi> and <hi>univer<g ref="char:EOLhyphen"/>ſally
+<pb n="41" facs="tcp:93847:22"/>
+good</hi> and uſeful any <hi>man is,</hi> the <hi>more like</hi> he is to <hi>Angels,</hi> the <hi>more like</hi> to <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> the <hi>more like</hi> to <hi>God himſelf.</hi> It cannot therefore but be a <hi>great honour</hi> for any man to <hi>ſerve</hi> h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>generation,</hi> which is to be a <hi>Common bleſsing,</hi> a <hi>Pub<g ref="char:EOLhyphen"/>lick good,</hi> and ſo to be <hi>like God him<g ref="char:EOLhyphen"/>ſelf.</hi>
+            </p>
+            <p>I have given you briefly the <hi>Explica<g ref="char:EOLhyphen"/>tion</hi> of the Point,<note place="margin">Applicatio Do<g ref="char:EOLhyphen"/>ctrinae.</note> I come now to the <hi>Ap<g ref="char:EOLhyphen"/>plication</hi> of it.</p>
+            <p>And here I might in the firſt place take up a bitter <hi>Lamentation,</hi>
+               <note place="margin">1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> or rather <hi>Reprehenſion</hi> againſt multitudes amongſt us that are very <hi>faulty</hi> in reference to this great <hi>duty</hi> of <hi>Serving</hi> their <hi>Genera<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Some there are that <hi>live whol<g ref="char:EOLhyphen"/>ly to themſelves,</hi> mind only themſelves and their own private good and intereſt. All their cares, thoughts, ſtudies, affe<g ref="char:EOLhyphen"/>ctions are confined to themſelves, centred upon themſelves; they mind not, regard not the good of the Age and Generati<g ref="char:EOLhyphen"/>on they live in; they eare not how things go in publick, ſink or ſwim, ſo they may abound in eaſe, wealth and proſpe<g ref="char:EOLhyphen"/>rity; all their care is to inrich themſelves
+<pb n="42" facs="tcp:93847:23"/>
+and greaten their Families. Mark what the Holy Ghoſt ſaith of ſuch a man, <hi>Pſalm</hi> 49. <hi>v.</hi> 11, 12, 13, 16, &amp;c. <hi>Their inward thought is, That their houſes ſhall continue for ever, and their dwelling pla<g ref="char:EOLhyphen"/>ces to all generations,</hi> (And that's all they take thought and care for, and therefore) <hi>they call their Lands by their own Names;</hi> as if they made account by this device to Immortalize their names, and Conſecrate them to Eterni<g ref="char:EOLhyphen"/>ty, as much as if they had been the moſt ſerviceable men that the earth did ever bear. But what ſaith the Holy Ghoſt?<note place="margin">Ver. 12</note> 
+               <hi>Nevertheleſs</hi> (for all their cal<g ref="char:EOLhyphen"/>ling their Lands by their own Names) <hi>Man being in honour continueth not: he is like the beaſts that periſh.</hi> He periſheth and his memorial is periſhed with him. <hi>Pſalm</hi> 9.6. <hi>His remembrance ſhall periſh in the earth, and he ſhall have no name in the ſtreet,</hi>
+               <note place="margin">Ver. 13</note> Job 18.17. <hi>This their way is their folly.</hi> Whatever it be in the eyes of men, it is <hi>meer folly</hi> in the ſight of God for any to think to perpetuate their names by heaping up <hi>Lordſhips,</hi> and <hi>Manors,</hi> and <hi>Towns,</hi> and <hi>Calling</hi> them by their own <hi>Names, this their way is their
+<pb n="43" facs="tcp:93847:23"/>
+folly. Yet their poſterity</hi> (as very fools as themſelves) <hi>approve their ſayings,</hi> tread their ſteps. Againſt this <hi>folly</hi> the Holy Ghoſt gives the godly a <hi>Caveat,</hi> v. 16. <hi>Be not thou afraid when one</hi> (that is, ſuch an one as he had been ſpeaking of be<g ref="char:EOLhyphen"/>fore, one that ſeeks not the good of his generation, that ſeeks nothing but to greaten himſelf and his family. Let it be no temptation to thee when ſuch an one) <hi>is made rich, when the glory of his houſe encreaſeth. For when he dyeth he ſhall carry nothing away: his glo<g ref="char:EOLhyphen"/>ry ſhall not deſcend after him. Though while he lived he bleſſed his ſoul,</hi> (ſaying with that fool in the Parable, <hi>Soul, thou haſt much goods laid up for many years, take thine eaſe, cate, drink and be mer<g ref="char:EOLhyphen"/>ry</hi>) yet none elſe bleſſed him. <hi>And men will praiſe thee when thou doſt well to thy ſelf. Men,</hi> that is, ſome men, <hi>will praiſe thee,</hi> flatter thee <hi>to thy face when thou doſt well to thy ſelf,</hi> yet he that ſerves not his <hi>own generation, ſhall go to the generation of his fathers, he ſhall never ſee light</hi> &amp;c.</p>
+            <p>
+               <hi>Secondly,</hi> Others there are who are ſo far from <hi>ſerving</hi> the <hi>age</hi> and <hi>genera<g ref="char:EOLhyphen"/>tion</hi>
+               <pb n="44" facs="tcp:93847:24"/>
+wherein they live, that they ſerve themſelves of the age and generation they live in. Theſe are ſuch as make an advantage to themſelves of the troubles and calamities of the times wherein they live, and build their own Neſts up<g ref="char:EOLhyphen"/>on the Publick ruines. Theſe in ſtead of ſerving their generation, are the Plague and Scourge of the generation they live in: <hi>Wo unto him that buildeth a Town with blood, and eſtabliſheth a City by ini<g ref="char:EOLhyphen"/>quity,</hi> &amp;c. Hab. 2.11.</p>
+            <p n="3">3. Again, Others in ſtead of ſerv<g ref="char:EOLhyphen"/>ing the <hi>generation</hi> wherein they live, they are the <hi>ſhame,</hi> the <hi>burthen,</hi> the <hi>re<g ref="char:EOLhyphen"/>proach, Ulcus et Carcinôma,</hi> the <hi>ſcab,</hi> the <hi>plague</hi> of the <hi>generation</hi> they live in. Such are all profane ungodly perſons, drunk<g ref="char:EOLhyphen"/>ards, ſwearers, adulterers and the like. How do theſe ſerve the <hi>generation</hi> they live in? or what do theſe ſerve for? but only to poiſon and infect the Age in which they live with their vitious con<g ref="char:EOLhyphen"/>verſations, to fill up the meaſure of its iniquities, and make it run over, and to haſten the wrath and vengeance of God upon themſelves and the Age they live in.</p>
+            <p>
+               <pb n="45" facs="tcp:93847:24"/>But I had rather ſpend that little time that remaineth in a ſecond Uſe;<note place="margin">2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and that is to exhort every one of you, ſee<g ref="char:EOLhyphen"/>ing the <hi>greateſt honour that the greateſt up<g ref="char:EOLhyphen"/>on earth can have is to ſerve his generati<g ref="char:EOLhyphen"/>on,</hi> O be exhorted to lay out your <hi>ſelves,</hi> your <hi>utmoſt,</hi> your <hi>all</hi> for the ſer<g ref="char:EOLhyphen"/>vice of your generation. Whatever God hath bleſſed you with, devote it all to his ſervice, and the ſervice of your ge<g ref="char:EOLhyphen"/>neration.</p>
+            <p>Hath God bleſſed you with able parts? Lay out them for the ſervice of your generation; ſo did <hi>David</hi> the ex<g ref="char:EOLhyphen"/>traordinary gifts of the Holy Ghoſt which he had received.</p>
+            <p>Hath God bleſſed you with able pur<g ref="char:EOLhyphen"/>ſes? grudg not them to the ſervice of your generation. <hi>David</hi> did not, but <hi>prepared with all his might</hi> ſilver and gold, &amp;c. for the building of the Tem<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Hath God given you Power, Intereſt, Authority in your generation? Im<g ref="char:EOLhyphen"/>prove that for the ſervice of your ge<g ref="char:EOLhyphen"/>neration; ſo did <hi>David</hi> his: ſerve your generation in your Private and Perſonal Capacities every one of you. And ſuch
+<pb n="46" facs="tcp:93847:25"/>
+as God hath ſet in publick places, ſerve your generations in your Publick Capa<g ref="char:EOLhyphen"/>cities. <hi>Firſt,</hi> Serve your generation in your Private and Perſonal Capaci<g ref="char:EOLhyphen"/>ties</p>
+            <p>
+               <hi>Firſt,</hi> By bewailing the ſins of the generation you live in; that you may all do, and that you ſhould all do: and ne<g ref="char:EOLhyphen"/>ver did any generation call for tears more then ours.</p>
+            <p>
+               <hi>Secondly,</hi> Serve your generation by ſtanding in the gap; by pleading with God to turn away his wrath from this generation: Never more need then now, never fitter opportunities then now.</p>
+            <p>
+               <hi>Thirdly,</hi> Serve your generation by the example of an Holy and Goſpel-be<g ref="char:EOLhyphen"/>coming Converſation. Never was that more needful then now, when the wo<g ref="char:EOLhyphen"/>ful miſcarriages of many Profeſſors of the Goſpel hath made the very <hi>Name</hi> of the Goſpel and the Reformed Religion to ſtink in the noſtrils of the Nations that are round about us, and hath har<g ref="char:EOLhyphen"/>dened the hearts of many amongſt our ſelves. O now labour to ſhine as lights in the midſt of a crooked and perverſe ge<g ref="char:EOLhyphen"/>neration.</p>
+            <p>
+               <pb n="47" facs="tcp:93847:25"/>Eſpecially thoſe of you whom God hath ſet in Publick and Eminent places, in the <hi>Magiſtracy</hi> and in the <hi>Miniſtry,</hi> ſet you as <hi>Lights</hi> in a <hi>Candleſtick, Stars</hi> in an higher <hi>Orb:</hi> O how ſhould you wil<g ref="char:EOLhyphen"/>lingly (with the Apoſtle) <hi>ſpend and be ſpent</hi> in the ſervice of your generation, 2 <hi>Cor.</hi> 12.15. One of the German Prin<g ref="char:EOLhyphen"/>ces took for his Device a <hi>Candle burn<g ref="char:EOLhyphen"/>ing</hi> in a Candleſtick with this Motto,<note place="margin">Erneſtus dux Lunebergenſis ex Phillipti lo<g ref="char:EOLhyphen"/>cis Manlionis.</note> A. S. M. C. <hi>hoc eſt, Aliis Servio, Meip<g ref="char:EOLhyphen"/>ſam Conſumo;</hi> I Serve Others, and Spend my Self. So ſhould every one whom God hath ſet in publick place ſay and do. Even ſpend himſelf in ſerving his generation. To move you to this conſider,</p>
+            <p>
+               <hi>Firſt,</hi> It will be an <hi>Honour</hi> to you in <hi>Life,</hi> in <hi>Death,</hi> and <hi>after Death;</hi> yea it will be a <hi>comfort</hi> to you at the day of Judgment and when you come in hea<g ref="char:EOLhyphen"/>ven, that you did not ſpend your dayes in vanity, that you did not live <hi>telluris inutile pondus,</hi> but <hi>ſerved your generation.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Conſider, you have but a <hi>Little Time</hi> to <hi>ſerve your generation in:</hi> It is but a <hi>Span</hi> but an <hi>Inch</hi> of time that you have to do ſervice in.</p>
+            <p>
+               <pb n="48" facs="tcp:93847:26"/>
+               <hi>Thirdly,</hi> Conſider there are but few that ſeriouſly and conſcienciouſly attend this work. We may take up the com<g ref="char:EOLhyphen"/>plaint of the Apoſtle, Phil. 2.21. <hi>All ſeek their own;</hi> or that of <hi>Rabbi Simme<g ref="char:EOLhyphen"/>on, Nathanielis F. Dies brevis &amp; opus multum &amp; operarii pauci,</hi>
+               <note place="margin">Drufiii Apoph<g ref="char:EOLhyphen"/>thegmata E<g ref="char:EOLhyphen"/>braorum.</note> 
+               <hi>es merces multa &amp; Paterfamilias urget:</hi> The Time is ſhort, the Work is great, the Labourers few, the Wages ample, the Maſter urgent, therefore <hi>Dum vires anni<g ref="char:EOLhyphen"/>que ſiunt,</hi> &amp;c. while time and ſtrength ſerves, ſerve your generation.</p>
+            <p>
+               <hi>Fourthly,</hi> Conſider the number of thoſe who ſerve their generation dimi<g ref="char:EOLhyphen"/>niſheth and decreaſeth daily: God hath lately taken away not only in other parts of the Nation, but here in <hi>Eſſex</hi> many excellent and ſerviceable ones in the <hi>Ma<g ref="char:EOLhyphen"/>giſtracy</hi> and in the <hi>Miniſtry.</hi> Men that were publick Bleſſings. And now laſt of all his faithful ſervant, the Reverend Paſtor of this place,<note place="margin">Tranſitio ad Celebrationem Defuncti.</note> Mr. <hi>Samuel Col<g ref="char:EOLhyphen"/>lins,</hi> whoſe exceeding eminent ſervice<g ref="char:EOLhyphen"/>ableneſs <hi>to</hi> and <hi>in</hi> his <hi>generation,</hi> I think, envy it ſelf cannot deny, I ſay it again, En<g ref="char:EOLhyphen"/>vy it ſelf cannot deny but that he was, <hi>A man exceeding ſerviceable in his genera<g ref="char:EOLhyphen"/>tion;</hi>
+               <pb n="49" facs="tcp:93847:26"/>
+if any ſhould, the ſtones of this place, yea, the ſtones of your ſtreets and the walls of your houſes would confute them. For who was the inſtrument, un<g ref="char:EOLhyphen"/>der God, of laying the foundations of Religion and godlineſs among you? was it not Mr. <hi>Collins?</hi> Who was the means of directing you into ſome kind of order and forme, as it were, of civil government in this Towne, and there<g ref="char:EOLhyphen"/>by into a way of more vigorous ſuppreſ<g ref="char:EOLhyphen"/>ſing diſorders, and more comfortable providing for your poor then is almoſt to be found again in any town in the County? Who laid the platform of theſe things amongſt you? was it not Mr. <hi>Collins?</hi> Who was the occaſion of building many houſes (and as I have been informed, ſome whole ſtreets in your Town) by increaſing the number of your Inhabitants? was it not Mr. <hi>Collins?</hi> the ſweet ſound and ſavour of whoſe Miniſtry invited many from o<g ref="char:EOLhyphen"/>ther places to come and ſeek a habitation among you, ſo that whatever he were to others, yet it cannot be denyed but he was to you, <hi>a man ſerviceable in his generati<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <p>
+               <pb n="50" facs="tcp:93847:27"/>Nor can it be denyed but he was ſer<g ref="char:EOLhyphen"/>viceable to others alſo: His uſefulneſs was not confined to <hi>one,</hi> but diffuſed it ſelf into <hi>many places.</hi> Not to ſpeak of the <hi>good</hi> he did by his own <hi>Sermons</hi> preached abroad, how many Congre<g ref="char:EOLhyphen"/>gations have cauſe to bleſſe God for him, on the behalf of thoſe faithful and godly Miniſters, which he procured to be ſent to them, by the intereſt he had in thoſe perſons of <hi>worth</hi> &amp; <hi>honor</hi> to whom by preſent Laws the <hi>Jus Patronatus</hi> did belong?</p>
+            <p>Yea, how many have cauſe to bleſſe God for the Miniſters that were brought up in his family, under his <hi>Eye, Care,</hi> and <hi>Tuition,</hi> who have ſince proved e<g ref="char:EOLhyphen"/>minent and worthy inſtruments in the Church of Chriſt? I think ſcarce any man now living in <hi>England</hi> was more <hi>ſer<g ref="char:EOLhyphen"/>viceable</hi> or more <hi>happy</hi> in this kind then he.</p>
+            <p>And I could have wiſhed (had it been the good pleaſure of God) that this imployment that is now caſt upon me, had fallen upon the hand of ſome one of them to whom this Reverend Fa<g ref="char:EOLhyphen"/>ther might have ſaid as aged <hi>Paul</hi> doth
+<pb n="51" facs="tcp:93847:27"/>
+to his beloved Son and Scholar <hi>Timo<g ref="char:EOLhyphen"/>thy,</hi> 2 Tim. 3.10. <hi>But thou haſt fully known my doctrine, manner of life, pur<g ref="char:EOLhyphen"/>poſe, faith, long-ſuffering, charity, pa<g ref="char:EOLhyphen"/>tience, perſecution which came to me at I<g ref="char:EOLhyphen"/>conium, at Antioch, at Lyſtra, what per<g ref="char:EOLhyphen"/>ſecutions I endured, but out of them all the Lord delivered me.</hi> I would this work had fallen upon the hand of ſome of theſe who might have been <hi>Teſtes Do<g ref="char:EOLhyphen"/>meſtici &amp; quotidiani,</hi> daily and Dome<g ref="char:EOLhyphen"/>ſtick Witneſſes of his Converſation a<g ref="char:EOLhyphen"/>mong you.</p>
+            <p>For my part I was but a child when he was in the ſtrength and glory of his Miniſtry. But thus much I remember, that when I was a child Mr. <hi>Collins</hi> of <hi>Braintrie</hi> was among thoſe <hi>men,</hi> thoſe <hi>Miniſters</hi> whoſe <hi>Names</hi> God had made precious among his Saints.</p>
+            <p>Since I came to mans eſtate it hath been my unhappineſs that I have been almoſt a ſtranger to him, having op<g ref="char:EOLhyphen"/>portunity only to give him <hi>ſeldome</hi> and <hi>ſhort viſits.</hi> But what I have learned eith<g ref="char:EOLhyphen"/>er by my own obſervation or by the ob<g ref="char:EOLhyphen"/>ſervation of others, that I ſhall not ſpare to ſpeak; not ſo much to his praiſe as
+<pb n="52" facs="tcp:93847:28"/>
+to the praiſe of God, <hi>from whom comes every good gift, and every perfect giving.</hi> And I know not better what particulars to inſtance in then thoſe, concerning which the <hi>Paul</hi> appeals to <hi>Timothy, Thou haſt fully known my doctrine, manner of life,</hi> &amp;c.</p>
+            <p>The firſt thing I ſhall inſtance in is his <hi>Doctrine:</hi> As <hi>Demoſthenes</hi> ſaid <hi>Pro<g ref="char:EOLhyphen"/>nunciation</hi> was the firſt and <hi>principal</hi> thing in an <hi>Orator;</hi> ſo <hi>Doctrine</hi> is the firſt and <hi>principle</hi> thing in a <hi>Miniſter.</hi> I ſhal therefore firſt begin to ſpeak of that.</p>
+            <p>I had the happineſſe ſometimes to be his hearer; once (I remember) ſome twenty years ago, drawn by the fame of the man, I came a Journey (of many miles) to ſanctifie a Sabbath here, and to injoy his Miniſtry, when I neither knew him nor any in this Town, nor he, nor any here knew me either by face or name; and I received a great deal of ſatisfaction in the Doctrine I heard from him then, and ſo I have done as often as I have had opportunity to hear him ſince. And I appeal to you who have been his hearers (as I think ſome of you have been) all the time of his going out
+<pb n="53" facs="tcp:93847:28"/>
+and coming in among you, was not his Doctrine alwayes ſound? did he (in all the forty and ſix years of his Mini<g ref="char:EOLhyphen"/>ſtry among you, did he) ever broach any <hi>Error,</hi> or vent any one <hi>Heterodox</hi> or private Opinion? Nay, was he not alwayes a ſtrong and zealous oppoſer of them? You that were his <hi>graveſt</hi> and moſt <hi>Judicious Auditors</hi> ſpeak, and I know you will ſay his <hi>Doctrine</hi> was al<g ref="char:EOLhyphen"/>wayes <hi>Sound;</hi> yea, and not only ſound, but <hi>Profitable, Powerful, Succeſſeful:</hi> Witneſſe thoſe many ſouls that God gave in to his <hi>Miniſtry,</hi> and by his Mi<g ref="char:EOLhyphen"/>niſtry in to <hi>Chriſt,</hi> ſome whereof are now in heaven bleſſing God with him and for him; others are yet living in <hi>New England,</hi> and ſome I hope are yet living in <hi>Braintree,</hi> who muſt (if they will not be unjuſt and unthankful) ſay, <hi>That though they had many iuſtructers, yet in Chriſt Jeſus this was the man that begate them to God through the Goſpel.</hi> His Doctrine was Powerful Succeſſeful.</p>
+            <p>And in this Doctrine he was Diligent, Painful, Laborious, Conſtant: For forty years together and above he preached ordinarily thrice every week,
+<pb n="54" facs="tcp:93847:29"/>
+beſides his Sermons preached abroad, and occaſional Sermons at home. And even to this laſt winter (till it pleaſed God to give him a <hi>Superſedeas</hi> by that ſore ſickneſſe which at length ſerved him with a <hi>Quietus eſt</hi> in death; till then, I ſay) he continued to preach conſtantly &amp; or<g ref="char:EOLhyphen"/>dinarily twice every Sabbath day. I pro<g ref="char:EOLhyphen"/>feſſe I have wondred that he had ſtrength of body to do it, being almoſt fourſcore years old, and that he had liberty of Spirit to do it, his Miniſtry (even His) meeting with the ſame diſreſpect and diſcouragement that the labours of the reſt of Gods Miniſters generally meet with in theſe ſinful, ſlighting, unthankful dayes. But God had vouchſafed him a ſingular bleſſing, that even in his old age he was <hi>fat and flouriſhing,</hi> Pſalm 92.14. His <hi>Underſtanding, Invention, Memory, Utterance</hi> and other Miniſterial parts, they were as lively, as freſh and nimble now in his old age as in the prime of his years (at leaſt I may ſay they were more freſh and lively in him then in ma<g ref="char:EOLhyphen"/>ny of us who are far younger men.) That as it is ſaid of <hi>Joſeph, His bow abode in ſtrength.</hi> It is recorded of <hi>Moſes</hi> as a
+<pb n="55" facs="tcp:93847:29"/>
+ſingular and <hi>memorable</hi> thing, That when he was one hundred and twenty years old, his eye waxed not dim, and his natural ſtrength was not abated, <hi>Deut.</hi> 34.7. And is it not as rare and memorable concerning this <hi>faithful ſer<g ref="char:EOLhyphen"/>vant</hi> of God, that when he was almoſt one hundred years old lack twenty, the <hi>eye</hi> of his <hi>underſtanding</hi> waxed not <hi>dim,</hi> nor his <hi>ſpiritual</hi> ſtrength <hi>abated?</hi> But I ſee I muſt not beſtow thus much time in Engraving every piece of this good mans <hi>Character:</hi> I proceed therefore to the next mentioned by <hi>Paul,</hi> and that is his <hi>Life, Thou haſt fully known my Doctrine Life,</hi> &amp;c.</p>
+            <p n="2">2. The <hi>Life</hi> and <hi>Converſation</hi> was not only <hi>Unblameable</hi> and without <hi>Rebuke,</hi> but <hi>Holy, Exemplary, Edifying.</hi> He was none of thoſe that did with the <hi>Stoicks,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſpeak well,</hi> but <hi>do ill:</hi> Having <hi>Jacobs</hi> voice, but <hi>Eſau</hi>'s hands. He was none of thoſe <hi>Statuae Mercuriales,</hi> that ſerve only to point others the way to heaven, but ne<g ref="char:EOLhyphen"/>ver move one foot in that way them<g ref="char:EOLhyphen"/>ſelves. But as he <hi>preached</hi> ſo he <hi>lived:</hi> His <hi>Doctrine</hi> was the <hi>Rule</hi> of his <hi>Life,</hi>
+               <pb n="56" facs="tcp:93847:30"/>
+and his <hi>Life</hi> was the <hi>Example</hi> of that <hi>Doctrine.</hi> I may ſay of him as <hi>Bernard</hi> doth of his <hi>Humbertus, Factitium vobis Sermonem in omni famâ ſanctitatis ſervus Dei exhibuit:</hi> This ſervant of God gave you a Practical Sermon continually in his whole Converſation.</p>
+            <p n="3">3. And this his <hi>Life</hi> and <hi>Converſation</hi> declares what his <hi>Purpoſe,</hi> his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> was (which is the third thing there mentio<g ref="char:EOLhyphen"/>ned by <hi>Paul</hi>) in his entring into the Mi<g ref="char:EOLhyphen"/>niſtry, his purpoſe was not to ſeek great things to himſelf; No, no: you can<g ref="char:EOLhyphen"/>not but know that time was when the Staires of preferment were of as eaſie and open acceſſe unto him, as they are now to ſome others. And though he ne<g ref="char:EOLhyphen"/>ver ſought <hi>preferment,</hi> yet <hi>preferment</hi> ſought him: And if places of greater Eminency and greater Profit could have tempted him, <hi>Braintree</hi> had never enjoyed his Labours ſo long, nor been to bewaile his loſſe now; But as <hi>Gregory NaZianZene</hi> preferred his little Village where he was Paſtor before populous and eminent Cities, ſo he this Town of <hi>Braintree.</hi> He was reſolved, <hi>Hanc ſpar<g ref="char:EOLhyphen"/>tum Ornarc.</hi> He had <hi>purpoſed, reſolved, de<g ref="char:EOLhyphen"/>voted</hi>
+               <pb n="57" facs="tcp:93847:30"/>
+himſelf, <hi>a ſervant of the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, and your ſervant for Chriſts ſake;</hi> you were <hi>in his heart to live and to dye with;</hi> you were his firſt, his only Love. O that none of you had ever gi<g ref="char:EOLhyphen"/>ven him cauſe to complain with the A<g ref="char:EOLhyphen"/>poſtle, <hi>The more abundantly I love the leſſe I am beloved.</hi> In reference to this holy man, and what befel him in this <hi>Congregation,</hi> I have often thought up<g ref="char:EOLhyphen"/>on that in <hi>Exodus,</hi> where it is ſaid, <hi>There roſe up another generation which knew not Joſeph.</hi> O, Sirs, if you had all known (as ſome of you did) what ſervice he had done for this poor Town, what a ſtate when he came firſt hither he found <hi>Braintree</hi> in, and what a ſtate and degree of eminency in profeſſion and outward proſperity he (or rather God by his means and Miniſtry) had advanced it to, I am confident you would all have pai'd him the juſt <hi>Tribute</hi> of <hi>Love</hi> and <hi>Reve<g ref="char:EOLhyphen"/>rence</hi> in his <hi>Life,</hi> and <hi>Honour</hi> at his <hi>Death</hi> which many of you did and do.</p>
+            <p>I go unto the next particular and that is <hi>Faith: Thou haſt fully known my Doctrine, manner of Life, Purpoſe, Faith.</hi> He was
+<pb n="58" facs="tcp:93847:31"/>
+none of thoſe, <hi>Qui frigide &amp; Jejune de fide diſſerant,</hi> that do diſcourſe of Faith unto others coldly and overly, <hi>Tanquam de terrâ incognitâ.</hi> But as <hi>Tertullian</hi> ſpeaks of the <hi>Prayers</hi> of the <hi>Primitive Chriſtians,</hi> ſo it is true of his Preachings, They were <hi>tanquam de Pectore;</hi> His Ser<g ref="char:EOLhyphen"/>mons came from the Heart, he was a Preacher that could ſay with the Apo<g ref="char:EOLhyphen"/>ſtle <hi>John,</hi> 1 Epiſt. 1.1. <hi>That which we have ſeen with our eyes, and have lookt up<g ref="char:EOLhyphen"/>on, and our hands have handled of the Word of Life, declare we unto you.</hi>
+            </p>
+            <p>The next thing the Apoſtle inſtanceth in is <hi>Long-ſuffering:</hi> Now the Long-ſuffering of this <hi>Holy man,</hi> if it were not ſufficiently tryed in the time of his Health, if the forty ſix years time of his Miniſtry in this place, and the vari<g ref="char:EOLhyphen"/>ety of tryals he met with in that time from men of ſeveral tempers and ſpirits; if that were not tryal enough of his Long-ſuffering, yet the many weeks of his ſore and tedious affliction was. For many weeks was the hand of God heavy upon him in a ſore <hi>Quartane</hi> Ague. And in all that time he never uttered one un<g ref="char:EOLhyphen"/>becoming
+<pb n="59" facs="tcp:93847:31"/>
+word, but lay quiet, content<g ref="char:EOLhyphen"/>ed, chearful in the frame of his Spirit all the time of his ſickneſs, till it pleaſed God to put an end to his dayes. Here was Long-ſuffering.</p>
+            <p>For his <hi>Charity,</hi> though I ſay nothing, I am ſure there are enough who will pro<g ref="char:EOLhyphen"/>claim it: I believe there is ſcarce a poor man or woman in all your Town but will acknowledg that in him they have loſt one of their beſt Friends, one of their moſt ready, chearful, tenderhearted Relievers of their neceſſities that they had in all the world.</p>
+            <p>There is one thing more in theſe Mi<g ref="char:EOLhyphen"/>niſterial Perfections ſummed up by the <hi>Apoſtle,</hi> and I know that ſome of you watch to hear what I will ſay of that, and that is <hi>Patience.</hi> And may I ſpeak the truth, I never heard any thing laid to the charge of this holy man in all my dayes but ſome defect in this par<g ref="char:EOLhyphen"/>ticular, <hi>ſome want of Patience.</hi> Now ſuppoſe that this charge were true, why? may not the want of this one particular Grace be over-lookt where there is ſuch a full confluence of other Graces? What Man, what Saint is there living
+<pb n="60" facs="tcp:93847:32"/>
+upon the face of this earth, that wants no<g ref="char:EOLhyphen"/>thing? This Holy man of God (ſay ſome) wanted <hi>patience;</hi> and are there not other men that want the <hi>wiſdom</hi> he had, the <hi>gravity</hi> that he had, the <hi>ſobriety</hi> that he had in the uſe of meats, and drinks, and apparrel, the <hi>charity</hi> that he had? the <hi>mo<g ref="char:EOLhyphen"/>deſty</hi> and <hi>humility</hi> that he had? And yet all theſe can be over-lookt in them, only this one want of <hi>patience</hi> muſt be objected againſt him. But I beſeech you tell me (ſome of you) what was this want of <hi>patience</hi> and in what caſes? For there are caſes wherein to <hi>want patience</hi> is not a <hi>fault</hi> but a <hi>duty:</hi> there are caſes in which good men, holy men <hi>may not</hi> be patient, <hi>cannot</hi> be patient, <hi>ought not</hi> to be patient. Even <hi>Moſes</hi> himſelf, the <hi>pattern</hi> of pati<g ref="char:EOLhyphen"/>ence, the <hi>miracle</hi> of patience, having to do with a froward and gainſaying peo<g ref="char:EOLhyphen"/>ple, hath much ado ſometimes to keep the bounds of <hi>patience,</hi> yea, meets with ſome occaſions in which he dares not but ſhew <hi>ſome impatience.</hi> If the people in his abſence ſet up a <hi>golden calf</hi> and worſhip it, <hi>patience</hi> can hold no longer; then how impatient would <hi>Moſes</hi> have been if this had been done in his preſence and
+<pb n="61" facs="tcp:93847:32"/>
+before his face? If the people deſpiſe and loath the <hi>Manna</hi> of the Lord, if <hi>Co<g ref="char:EOLhyphen"/>ra, Dathan</hi> and <hi>Abiram</hi> will rebel a<g ref="char:EOLhyphen"/>gainſt the Lord by taking to themſelves an <hi>Office</hi> about the Holy things, to which the Lord hath not called them, and ſo make a <hi>Schiſm,</hi> a <hi>Sedition</hi> among the people; <hi>Moſes cannot, muſt not</hi> be pati<g ref="char:EOLhyphen"/>ent in theſe caſes. Now I beſeech you, what were the caſes in which this ſer<g ref="char:EOLhyphen"/>vant of the Lord ſhewed any Impati<g ref="char:EOLhyphen"/>ence at any time? were they properly his own concernments? when people withheld his Maintenance from him was he impatient then? Did he moleſt any? Did he hale them before the Judge? When people deſpiſed him, opened their mouths in ſcornful, reproachful manner againſt him (as many delight to do a<g ref="char:EOLhyphen"/>gainſt all the Miniſters of Chriſt Jeſus) was his impatience then? Being reviled, did he revile again? Surely no: but if when he ſaw people ſlighting the pre<g ref="char:EOLhyphen"/>cious <hi>Manna</hi> of the Word, ſetting up the <hi>Idols</hi> of their own brain in ſtead of Gods Ordinances, ſowing <hi>Schiſm</hi> and divi<g ref="char:EOLhyphen"/>ſion among the people committed to his charge; if upon ſuch occaſions as
+<pb n="62" facs="tcp:93847:33"/>
+theſe his Spirit was ſtirred in him, ſhall this be imputed as a fault to him?</p>
+            <lg>
+               <l>—Nam quis Iniqua</l>
+               <l>Tam Patient Gentis tam ferreus ut teneat ſe.</l>
+            </lg>
+            <p>This leads me to the laſt thing, <hi>Perſe<g ref="char:EOLhyphen"/>cutions</hi> and <hi>Afflictions</hi> which he ſuffered: Not from the hand of <hi>Publick Power;</hi> from that his own Integrity and Pru<g ref="char:EOLhyphen"/>dence, and (principally) that hand which upholds the Stars in his Church, preſerv<g ref="char:EOLhyphen"/>ed him all his dayes under all that variety of changes that hath paſſed over us. But I mean <hi>Perſecutions</hi> and <hi>Afflictions</hi> from <hi>private</hi> hands: Not at <hi>Liſtra, Iconium,</hi> and <hi>Antioch;</hi> not among <hi>Heathens</hi> and <hi>Jews,</hi> but at—</p>
+            <p>But I will draw a Curtain here: <hi>The Lord hath now delivered him out of them all;</hi> and I will not make theſe wounds <hi>recrudeſcere.</hi>
+            </p>
+            <p>The Lord look upon this poor Town in Mercy, and overlook all the failings and miſcarriages of his people in it; and ſend a man among you (if it be his good pleaſure) that may continue as long with you as this holy man did: And may do as much good among you
+<pb n="63" facs="tcp:93847:33"/>
+as he in his <hi>Generation;</hi> that though he find you divided, may unite you, and may reſtore you to your priſtine ſtate of Beauty and Unity, wherewith God had ſometimes dignified you. <hi>Amen. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
